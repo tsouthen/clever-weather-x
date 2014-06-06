@@ -1,0 +1,850 @@
+{"Code":"s0000001","NameEn":"Athabasca","NameFr":"Athabasca","Province":"AB","Latitude":54.72,"Longitude":113.28}
+{"Code":"s0000002","NameEn":"Clearwater","NameFr":"Clearwater","Province":"BC","Latitude":51.65,"Longitude":120.03}
+{"Code":"s0000003","NameEn":"Valemount","NameFr":"Valemount","Province":"BC","Latitude":52.83,"Longitude":119.25}
+{"Code":"s0000004","NameEn":"Grand Forks","NameFr":"Grand Forks","Province":"BC","Latitude":49.03,"Longitude":118.43}
+{"Code":"s0000005","NameEn":"McBride","NameFr":"McBride","Province":"BC","Latitude":53.3,"Longitude":120.17}
+{"Code":"s0000006","NameEn":"Merritt","NameFr":"Merritt","Province":"BC","Latitude":50.11,"Longitude":120.79}
+{"Code":"s0000007","NameEn":"Masset","NameFr":"Masset","Province":"BC","Latitude":54.02,"Longitude":132.1}
+{"Code":"s0000008","NameEn":"Invermere","NameFr":"Invermere","Province":"BC","Latitude":50.52,"Longitude":116.03}
+{"Code":"s0000009","NameEn":"Dome Creek","NameFr":"Dome Creek","Province":"BC","Latitude":53.75,"Longitude":121.03}
+{"Code":"s0000010","NameEn":"Little Grand Rapids","NameFr":"Little Grand Rapids","Province":"MB","Latitude":52.04,"Longitude":95.46}
+{"Code":"s0000011","NameEn":"Oxford House","NameFr":"Oxford House","Province":"MB","Latitude":54.95,"Longitude":95.27}
+{"Code":"s0000012","NameEn":"Bissett","NameFr":"Bissett","Province":"MB","Latitude":51.03,"Longitude":95.68}
+{"Code":"s0000013","NameEn":"Shamattawa","NameFr":"Shamattawa","Province":"MB","Latitude":55.85,"Longitude":92.09}
+{"Code":"s0000014","NameEn":"York Factory","NameFr":"York Factory","Province":"MB","Latitude":57.0,"Longitude":92.31}
+{"Code":"s0000015","NameEn":"Flin Flon","NameFr":"Flin Flon","Province":"MB","Latitude":54.77,"Longitude":101.86}
+{"Code":"s0000016","NameEn":"Musgrave Harbour","NameFr":"Musgrave Harbour","Province":"NL","Latitude":49.45,"Longitude":53.97}
+{"Code":"s0000017","NameEn":"New-Wes-Valley","NameFr":"New-Wes-Valley","Province":"NL","Latitude":49.17,"Longitude":53.57}
+{"Code":"s0000018","NameEn":"Bay Roberts","NameFr":"Bay Roberts","Province":"NL","Latitude":47.6,"Longitude":53.27}
+{"Code":"s0000019","NameEn":"St. Alban's","NameFr":"St. Alban's","Province":"NL","Latitude":47.88,"Longitude":55.85}
+{"Code":"s0000020","NameEn":"Fourchu Head","NameFr":"Cap Fourchu","Province":"NS","Latitude":45.72,"Longitude":60.23}
+{"Code":"s0000021","NameEn":"North Mountain (Cape Breton)","NameFr":"North Mountain (Cap-Breton)","Province":"NS","Latitude":46.88,"Longitude":60.58}
+{"Code":"s0000022","NameEn":"Marathon","NameFr":"Marathon","Province":"ON","Latitude":48.72,"Longitude":86.38}
+{"Code":"s0000023","NameEn":"Terrace Bay","NameFr":"Terrace Bay","Province":"ON","Latitude":48.8,"Longitude":87.1}
+{"Code":"s0000024","NameEn":"Attawapiskat","NameFr":"Attawapiskat","Province":"ON","Latitude":52.92,"Longitude":82.43}
+{"Code":"s0000025","NameEn":"Gogama","NameFr":"Gogama","Province":"ON","Latitude":47.67,"Longitude":81.73}
+{"Code":"s0000026","NameEn":"Maple Plains","NameFr":"Maple Plains","Province":"PE","Latitude":46.28,"Longitude":63.57}
+{"Code":"s0000027","NameEn":"Murdochville","NameFr":"Murdochville","Province":"QC","Latitude":48.97,"Longitude":65.5}
+{"Code":"s0000028","NameEn":"Escoumins","NameFr":"Escoumins","Province":"QC","Latitude":48.42,"Longitude":69.42}
+{"Code":"s0000029","NameEn":"Saint-Michel-des-Saints","NameFr":"Saint-Michel-des-Saints","Province":"QC","Latitude":46.68,"Longitude":73.92}
+{"Code":"s0000030","NameEn":"Rancheria","NameFr":"Rancheria","Province":"YT","Latitude":60.09,"Longitude":130.6}
+{"Code":"s0000031","NameEn":"Dempster (Highway)","NameFr":"Dempster (Route)","Province":"YT","Latitude":66.16,"Longitude":137.15}
+{"Code":"s0000032","NameEn":"Burgeo","NameFr":"Burgeo","Province":"NL","Latitude":47.61,"Longitude":57.62}
+{"Code":"s0000033","NameEn":"Bouctouche","NameFr":"Bouctouche","Province":"NB","Latitude":46.47,"Longitude":64.74}
+{"Code":"s0000034","NameEn":"Richibucto","NameFr":"Richibucto","Province":"NB","Latitude":46.68,"Longitude":64.88}
+{"Code":"s0000035","NameEn":"Rogersville","NameFr":"Rogersville","Province":"NB","Latitude":46.75,"Longitude":65.5}
+{"Code":"s0000036","NameEn":"Miramichi","NameFr":"Miramichi","Province":"NB","Latitude":47.0,"Longitude":65.47}
+{"Code":"s0000037","NameEn":"Point Escuminac","NameFr":"Point Escuminac","Province":"NB","Latitude":47.07,"Longitude":64.8}
+{"Code":"s0000038","NameEn":"Kouchibouguac","NameFr":"Kouchibouguac","Province":"NB","Latitude":46.86,"Longitude":64.98}
+{"Code":"s0000039","NameEn":"St. Lawrence","NameFr":"St. Lawrence","Province":"NL","Latitude":46.92,"Longitude":55.4}
+{"Code":"s0000040","NameEn":"Parrsboro","NameFr":"Parrsboro","Province":"NS","Latitude":45.41,"Longitude":64.33}
+{"Code":"s0000041","NameEn":"Bonavista","NameFr":"Bonavista","Province":"NL","Latitude":48.65,"Longitude":53.11}
+{"Code":"s0000042","NameEn":"Wreckhouse","NameFr":"Wreckhouse","Province":"NL","Latitude":47.71,"Longitude":59.31}
+{"Code":"s0000043","NameEn":"Edmundston","NameFr":"Edmundston","Province":"NB","Latitude":47.38,"Longitude":68.29}
+{"Code":"s0000044","NameEn":"Beauharnois","NameFr":"Beauharnois","Province":"QC","Latitude":45.32,"Longitude":73.87}
+{"Code":"s0000045","NameEn":"Edmonton","NameFr":"Edmonton","Province":"AB","Latitude":53.53,"Longitude":113.49}
+{"Code":"s0000046","NameEn":"Candiac","NameFr":"Candiac","Province":"QC","Latitude":45.38,"Longitude":73.52}
+{"Code":"s0000047","NameEn":"Calgary","NameFr":"Calgary","Province":"AB","Latitude":51.05,"Longitude":114.06}
+{"Code":"s0000048","NameEn":"La Prairie","NameFr":"La Prairie","Province":"QC","Latitude":45.42,"Longitude":73.5}
+{"Code":"s0000049","NameEn":"Saint-Constant","NameFr":"Saint-Constant","Province":"QC","Latitude":45.37,"Longitude":73.57}
+{"Code":"s0000050","NameEn":"Sainte-Catherine","NameFr":"Sainte-Catherine","Province":"QC","Latitude":45.4,"Longitude":73.58}
+{"Code":"s0000051","NameEn":"Saint-Rémi","NameFr":"Saint-Rémi","Province":"QC","Latitude":45.27,"Longitude":73.62}
+{"Code":"s0000052","NameEn":"Granby","NameFr":"Granby","Province":"QC","Latitude":45.4,"Longitude":72.73}
+{"Code":"s0000053","NameEn":"Cowansville","NameFr":"Cowansville","Province":"QC","Latitude":45.2,"Longitude":72.75}
+{"Code":"s0000054","NameEn":"Victoriaville","NameFr":"Victoriaville","Province":"QC","Latitude":46.05,"Longitude":71.97}
+{"Code":"s0000055","NameEn":"Prévost","NameFr":"Prévost","Province":"QC","Latitude":45.87,"Longitude":74.08}
+{"Code":"s0000056","NameEn":"Sainte-Sophie","NameFr":"Sainte-Sophie","Province":"QC","Latitude":45.82,"Longitude":73.9}
+{"Code":"s0000057","NameEn":"Saint-Lin-Laurentides","NameFr":"Saint-Lin-Laurentides","Province":"QC","Latitude":45.85,"Longitude":73.77}
+{"Code":"s0000058","NameEn":"Saint-Sauveur","NameFr":"Saint-Sauveur","Province":"QC","Latitude":45.9,"Longitude":74.17}
+{"Code":"s0000059","NameEn":"Saint-Hyacinthe","NameFr":"Saint-Hyacinthe","Province":"QC","Latitude":45.62,"Longitude":72.95}
+{"Code":"s0000060","NameEn":"Marieville","NameFr":"Marieville","Province":"QC","Latitude":45.43,"Longitude":73.17}
+{"Code":"s0000061","NameEn":"Rigaud","NameFr":"Rigaud","Province":"QC","Latitude":45.48,"Longitude":74.3}
+{"Code":"s0000062","NameEn":"Saint-Lazare","NameFr":"Saint-Lazare","Province":"QC","Latitude":45.4,"Longitude":74.13}
+{"Code":"s0000063","NameEn":"Farnham","NameFr":"Farnham","Province":"QC","Latitude":45.28,"Longitude":72.98}
+{"Code":"s0000064","NameEn":"Thetford Mines","NameFr":"Thetford Mines","Province":"QC","Latitude":46.1,"Longitude":71.3}
+{"Code":"s0000065","NameEn":"Kugaaruk","NameFr":"Kugaaruk","Province":"NU","Latitude":68.53,"Longitude":89.83}
+{"Code":"s0000066","NameEn":"Highvale","NameFr":"Highvale","Province":"AB","Latitude":53.45,"Longitude":114.52}
+{"Code":"s0000067","NameEn":"Pelican Narrows","NameFr":"Pelican Narrows","Province":"SK","Latitude":55.19,"Longitude":102.93}
+{"Code":"s0000068","NameEn":"Strathmore","NameFr":"Strathmore","Province":"AB","Latitude":51.05,"Longitude":113.39}
+{"Code":"s0000069","NameEn":"Hawkesbury","NameFr":"Hawkesbury","Province":"ON","Latitude":45.61,"Longitude":74.6}
+{"Code":"s0000070","NameEn":"Alexandria","NameFr":"Alexandria","Province":"ON","Latitude":45.31,"Longitude":74.63}
+{"Code":"s0000071","NameEn":"Cornwall","NameFr":"Cornwall","Province":"ON","Latitude":45.03,"Longitude":74.73}
+{"Code":"s0000072","NameEn":"Morrisburg","NameFr":"Morrisburg","Province":"ON","Latitude":44.9,"Longitude":75.18}
+{"Code":"s0000073","NameEn":"Algonquin Park (Brent)","NameFr":"Parc Algonquin (Brent)","Province":"ON","Latitude":46.03,"Longitude":78.48}
+{"Code":"s0000074","NameEn":"Algonquin Park (Lake of Two Rivers)","NameFr":"Parc Algonquin (Lake of Two Rivers)","Province":"ON","Latitude":45.58,"Longitude":78.48}
+{"Code":"s0000075","NameEn":"Oxtongue Lake","NameFr":"Oxtongue Lake","Province":"ON","Latitude":45.36,"Longitude":78.92}
+{"Code":"s0000076","NameEn":"Welland","NameFr":"Welland","Province":"ON","Latitude":43.0,"Longitude":79.23}
+{"Code":"s0000077","NameEn":"Winchester","NameFr":"Winchester","Province":"ON","Latitude":45.09,"Longitude":75.35}
+{"Code":"s0000078","NameEn":"Whistler","NameFr":"Whistler","Province":"BC","Latitude":50.12,"Longitude":122.97}
+{"Code":"s0000079","NameEn":"La Scie","NameFr":"La Scie","Province":"NL","Latitude":49.96,"Longitude":55.59}
+{"Code":"s0000080","NameEn":"Rondeau (Provincial Park)","NameFr":"Rondeau (Parc provincial)","Province":"ON","Latitude":42.3,"Longitude":81.89}
+{"Code":"s0000081","NameEn":"Coronach","NameFr":"Coronach","Province":"SK","Latitude":49.11,"Longitude":105.51}
+{"Code":"s0000082","NameEn":"Placentia","NameFr":"Placentia","Province":"NL","Latitude":47.3,"Longitude":53.99}
+{"Code":"s0000083","NameEn":"Sundre","NameFr":"Sundre","Province":"AB","Latitude":51.8,"Longitude":114.64}
+{"Code":"s0000084","NameEn":"Halifax (Shearwater)","NameFr":"Halifax (Shearwater)","Province":"NS","Latitude":44.66,"Longitude":63.59}
+{"Code":"s0000085","NameEn":"Témiscamingue","NameFr":"Témiscamingue","Province":"QC","Latitude":47.55,"Longitude":79.23}
+{"Code":"s0000086","NameEn":"Indian Head","NameFr":"Indian Head","Province":"SK","Latitude":50.53,"Longitude":103.67}
+{"Code":"s0000087","NameEn":"Fort Qu'Appelle","NameFr":"Fort Qu'Appelle","Province":"SK","Latitude":50.77,"Longitude":103.79}
+{"Code":"s0000088","NameEn":"Killarney","NameFr":"Killarney","Province":"ON","Latitude":46.06,"Longitude":80.98}
+{"Code":"s0000089","NameEn":"New Glasgow","NameFr":"New Glasgow","Province":"NS","Latitude":45.59,"Longitude":62.64}
+{"Code":"s0000090","NameEn":"Caribou","NameFr":"Caribou","Province":"NS","Latitude":45.73,"Longitude":62.72}
+{"Code":"s0000091","NameEn":"Bachelors Island","NameFr":"Bachelors Island","Province":"MB","Latitude":51.75,"Longitude":99.9}
+{"Code":"s0000092","NameEn":"Beaverlodge","NameFr":"Beaverlodge","Province":"AB","Latitude":55.21,"Longitude":119.43}
+{"Code":"s0000093","NameEn":"Brooks","NameFr":"Brooks","Province":"AB","Latitude":50.57,"Longitude":111.9}
+{"Code":"s0000094","NameEn":"Mingan","NameFr":"Mingan","Province":"QC","Latitude":50.3,"Longitude":64.03}
+{"Code":"s0000095","NameEn":"Nipawin","NameFr":"Nipawin","Province":"SK","Latitude":53.36,"Longitude":104.02}
+{"Code":"s0000096","NameEn":"Beaver Island","NameFr":"Beaver Island","Province":"NS","Latitude":44.75,"Longitude":62.8}
+{"Code":"s0000097","NameEn":"Port-Menier","NameFr":"Port-Menier","Province":"QC","Latitude":49.82,"Longitude":64.35}
+{"Code":"s0000098","NameEn":"Salaberry-de-Valleyfield","NameFr":"Salaberry-de-Valleyfield","Province":"QC","Latitude":45.25,"Longitude":74.13}
+{"Code":"s0000099","NameEn":"Huntingdon","NameFr":"Huntingdon","Province":"QC","Latitude":45.08,"Longitude":74.17}
+{"Code":"s0000100","NameEn":"Cartwright","NameFr":"Cartwright","Province":"NL","Latitude":53.71,"Longitude":57.01}
+{"Code":"s0000101","NameEn":"Bloodvein","NameFr":"Bloodvein","Province":"MB","Latitude":51.79,"Longitude":96.71}
+{"Code":"s0000102","NameEn":"Berens River","NameFr":"Berens River","Province":"MB","Latitude":52.37,"Longitude":97.03}
+{"Code":"s0000103","NameEn":"Atikokan","NameFr":"Atikokan","Province":"ON","Latitude":48.76,"Longitude":91.61}
+{"Code":"s0000104","NameEn":"Fort Frances","NameFr":"Fort Frances","Province":"ON","Latitude":48.61,"Longitude":93.39}
+{"Code":"s0000105","NameEn":"Mine Centre","NameFr":"Mine Centre","Province":"ON","Latitude":48.77,"Longitude":92.62}
+{"Code":"s0000106","NameEn":"100 Mile House","NameFr":"100 Mile House","Province":"BC","Latitude":51.65,"Longitude":121.28}
+{"Code":"s0000107","NameEn":"Clinton","NameFr":"Clinton","Province":"BC","Latitude":51.08,"Longitude":121.58}
+{"Code":"s0000108","NameEn":"Collingwood","NameFr":"Collingwood","Province":"ON","Latitude":44.5,"Longitude":80.24}
+{"Code":"s0000109","NameEn":"Shelburne","NameFr":"Shelburne","Province":"NS","Latitude":43.76,"Longitude":65.32}
+{"Code":"s0000110","NameEn":"Baccaro Point","NameFr":"Cap Baccaro","Province":"NS","Latitude":43.45,"Longitude":65.47}
+{"Code":"s0000111","NameEn":"Coronation","NameFr":"Coronation","Province":"AB","Latitude":52.09,"Longitude":111.45}
+{"Code":"s0000112","NameEn":"Englee","NameFr":"Englee","Province":"NL","Latitude":50.73,"Longitude":56.1}
+{"Code":"s0000113","NameEn":"Uranium City","NameFr":"Uranium City","Province":"SK","Latitude":59.57,"Longitude":108.61}
+{"Code":"s0000114","NameEn":"Port au Choix","NameFr":"Port-au-Choix","Province":"NL","Latitude":50.71,"Longitude":57.36}
+{"Code":"s0000115","NameEn":"Daniel's Harbour","NameFr":"Daniel's Harbour","Province":"NL","Latitude":50.24,"Longitude":57.59}
+{"Code":"s0000116","NameEn":"Badger","NameFr":"Badger","Province":"NL","Latitude":48.98,"Longitude":56.04}
+{"Code":"s0000117","NameEn":"Buchans","NameFr":"Buchans","Province":"NL","Latitude":48.82,"Longitude":56.86}
+{"Code":"s0000118","NameEn":"Grand Falls-Windsor","NameFr":"Grand Falls-Windsor","Province":"NL","Latitude":48.94,"Longitude":55.67}
+{"Code":"s0000119","NameEn":"Willow Creek (Provincial Park)","NameFr":"Willow Creek (Parc provincial)","Province":"AB","Latitude":50.12,"Longitude":113.77}
+{"Code":"s0000120","NameEn":"Claresholm","NameFr":"Claresholm","Province":"AB","Latitude":50.02,"Longitude":113.58}
+{"Code":"s0000121","NameEn":"Chevery","NameFr":"Chevery","Province":"QC","Latitude":50.47,"Longitude":59.6}
+{"Code":"s0000122","NameEn":"Twillingate","NameFr":"Twillingate","Province":"NL","Latitude":49.65,"Longitude":54.76}
+{"Code":"s0000123","NameEn":"Manicouagan","NameFr":"Manicouagan","Province":"QC","Latitude":50.64,"Longitude":68.74}
+{"Code":"s0000124","NameEn":"La Tuque","NameFr":"La Tuque","Province":"QC","Latitude":47.43,"Longitude":72.78}
+{"Code":"s0000125","NameEn":"Mauricie","NameFr":"Mauricie","Province":"QC","Latitude":46.8,"Longitude":72.97}
+{"Code":"s0000126","NameEn":"Calgary (Olympic Park)","NameFr":"Calgary (Parc Olympique)","Province":"AB","Latitude":51.09,"Longitude":114.23}
+{"Code":"s0000127","NameEn":"Upsala","NameFr":"Upsala","Province":"ON","Latitude":49.06,"Longitude":90.5}
+{"Code":"s0000128","NameEn":"St. Anthony","NameFr":"St. Anthony","Province":"NL","Latitude":51.37,"Longitude":55.59}
+{"Code":"s0000129","NameEn":"Drumheller","NameFr":"Drumheller","Province":"AB","Latitude":51.46,"Longitude":112.72}
+{"Code":"s0000130","NameEn":"Pinawa","NameFr":"Pinawa","Province":"MB","Latitude":50.15,"Longitude":95.88}
+{"Code":"s0000131","NameEn":"Whiteshell","NameFr":"Whiteshell","Province":"MB","Latitude":49.74,"Longitude":95.2}
+{"Code":"s0000132","NameEn":"Estevan Point","NameFr":"Estevan Point","Province":"BC","Latitude":49.38,"Longitude":126.55}
+{"Code":"s0000133","NameEn":"Shaunavon","NameFr":"Shaunavon","Province":"SK","Latitude":49.65,"Longitude":108.42}
+{"Code":"s0000134","NameEn":"Eastend","NameFr":"Eastend","Province":"SK","Latitude":49.52,"Longitude":108.82}
+{"Code":"s0000135","NameEn":"Virden","NameFr":"Virden","Province":"MB","Latitude":49.85,"Longitude":100.93}
+{"Code":"s0000136","NameEn":"Melita","NameFr":"Melita","Province":"MB","Latitude":49.27,"Longitude":101.0}
+{"Code":"s0000137","NameEn":"Turtle Mountain (Provincial Park)","NameFr":"Turtle Mountain (Parc provincial)","Province":"MB","Latitude":49.05,"Longitude":100.25}
+{"Code":"s0000138","NameEn":"East Point","NameFr":"East Point","Province":"PE","Latitude":46.45,"Longitude":62.0}
+{"Code":"s0000139","NameEn":"Swan River","NameFr":"Swan River","Province":"MB","Latitude":52.11,"Longitude":101.27}
+{"Code":"s0000140","NameEn":"Eureka","NameFr":"Eureka","Province":"NU","Latitude":79.98,"Longitude":85.95}
+{"Code":"s0000141","NameEn":"Vancouver","NameFr":"Vancouver","Province":"BC","Latitude":49.25,"Longitude":123.12}
+{"Code":"s0000142","NameEn":"L'Assomption","NameFr":"L'Assomption","Province":"QC","Latitude":45.83,"Longitude":73.42}
+{"Code":"s0000143","NameEn":"Berthierville","NameFr":"Berthierville","Province":"QC","Latitude":46.08,"Longitude":73.18}
+{"Code":"s0000144","NameEn":"Contrecoeur","NameFr":"Contrecoeur","Province":"QC","Latitude":45.85,"Longitude":73.23}
+{"Code":"s0000145","NameEn":"Mascouche","NameFr":"Mascouche","Province":"QC","Latitude":45.75,"Longitude":73.6}
+{"Code":"s0000146","NameEn":"Prince George","NameFr":"Prince George","Province":"BC","Latitude":53.92,"Longitude":122.75}
+{"Code":"s0000147","NameEn":"Sorel-Tracy","NameFr":"Sorel-Tracy","Province":"QC","Latitude":46.03,"Longitude":73.12}
+{"Code":"s0000148","NameEn":"Tracy","NameFr":"Tracy","Province":"QC","Latitude":46.03,"Longitude":73.14}
+{"Code":"s0000149","NameEn":"Le Gardeur","NameFr":"Le Gardeur","Province":"QC","Latitude":45.75,"Longitude":73.47}
+{"Code":"s0000150","NameEn":"Morris","NameFr":"Morris","Province":"MB","Latitude":49.36,"Longitude":97.37}
+{"Code":"s0000151","NameEn":"Steinbach","NameFr":"Steinbach","Province":"MB","Latitude":49.53,"Longitude":96.68}
+{"Code":"s0000152","NameEn":"Dominion City","NameFr":"Dominion City","Province":"MB","Latitude":49.14,"Longitude":97.16}
+{"Code":"s0000153","NameEn":"Emerson","NameFr":"Emerson","Province":"MB","Latitude":49.01,"Longitude":97.21}
+{"Code":"s0000154","NameEn":"Vita","NameFr":"Vita","Province":"MB","Latitude":49.13,"Longitude":96.56}
+{"Code":"s0000155","NameEn":"Gulf Islands (Southern)","NameFr":"Gulf Islands (Secteur sud)","Province":"BC","Latitude":48.95,"Longitude":123.53}
+{"Code":"s0000156","NameEn":"Elk Island (National Park)","NameFr":"Elk Island (Parc national)","Province":"AB","Latitude":53.61,"Longitude":112.87}
+{"Code":"s0000157","NameEn":"Tisdale","NameFr":"Tisdale","Province":"SK","Latitude":52.85,"Longitude":104.05}
+{"Code":"s0000158","NameEn":"Melfort","NameFr":"Melfort","Province":"SK","Latitude":52.86,"Longitude":104.61}
+{"Code":"s0000159","NameEn":"Cardston","NameFr":"Cardston","Province":"AB","Latitude":49.2,"Longitude":113.3}
+{"Code":"s0000160","NameEn":"Snow Lake","NameFr":"Snow Lake","Province":"MB","Latitude":54.88,"Longitude":100.04}
+{"Code":"s0000161","NameEn":"Pukatawagan","NameFr":"Pukatawagan","Province":"MB","Latitude":55.74,"Longitude":101.32}
+{"Code":"s0000162","NameEn":"Nain","NameFr":"Nain","Province":"NL","Latitude":56.55,"Longitude":61.69}
+{"Code":"s0000163","NameEn":"Sutton","NameFr":"Sutton","Province":"QC","Latitude":45.1,"Longitude":72.62}
+{"Code":"s0000164","NameEn":"Colville Lake","NameFr":"Colville Lake","Province":"NT","Latitude":67.03,"Longitude":126.12}
+{"Code":"s0000165","NameEn":"Goderich","NameFr":"Goderich","Province":"ON","Latitude":43.74,"Longitude":81.7}
+{"Code":"s0000166","NameEn":"Kincardine","NameFr":"Kincardine","Province":"ON","Latitude":44.17,"Longitude":81.63}
+{"Code":"s0000167","NameEn":"Garden Creek","NameFr":"Garden Creek","Province":"AB","Latitude":58.7,"Longitude":113.88}
+{"Code":"s0000168","NameEn":"Brockville","NameFr":"Brockville","Province":"ON","Latitude":44.6,"Longitude":75.69}
+{"Code":"s0000169","NameEn":"Gananoque","NameFr":"Gananoque","Province":"ON","Latitude":44.33,"Longitude":76.16}
+{"Code":"s0000170","NameEn":"Waterton Park","NameFr":"Parc Waterton","Province":"AB","Latitude":49.05,"Longitude":113.91}
+{"Code":"s0000171","NameEn":"Altona","NameFr":"Altona","Province":"MB","Latitude":49.1,"Longitude":97.56}
+{"Code":"s0000172","NameEn":"Gretna","NameFr":"Gretna","Province":"MB","Latitude":49.01,"Longitude":97.56}
+{"Code":"s0000173","NameEn":"Pemberton","NameFr":"Pemberton","Province":"BC","Latitude":50.32,"Longitude":122.8}
+{"Code":"s0000174","NameEn":"Îles-de-la-Madeleine","NameFr":"Îles-de-la-Madeleine","Province":"QC","Latitude":47.4,"Longitude":61.78}
+{"Code":"s0000175","NameEn":"Sparwood","NameFr":"Sparwood","Province":"BC","Latitude":49.72,"Longitude":114.9}
+{"Code":"s0000176","NameEn":"Esther","NameFr":"Esther","Province":"AB","Latitude":51.68,"Longitude":110.26}
+{"Code":"s0000177","NameEn":"Grise Fiord","NameFr":"Grise Fiord","Province":"NU","Latitude":76.42,"Longitude":82.9}
+{"Code":"s0000178","NameEn":"Hunters Point","NameFr":"Hunters Point","Province":"MB","Latitude":53.03,"Longitude":100.94}
+{"Code":"s0000179","NameEn":"Three Hills","NameFr":"Three Hills","Province":"AB","Latitude":51.7,"Longitude":113.27}
+{"Code":"s0000180","NameEn":"Varennes","NameFr":"Varennes","Province":"QC","Latitude":45.68,"Longitude":73.43}
+{"Code":"s0000181","NameEn":"Hopedale","NameFr":"Hopedale","Province":"NL","Latitude":55.47,"Longitude":60.22}
+{"Code":"s0000182","NameEn":"Donnacona","NameFr":"Donnacona","Province":"QC","Latitude":46.67,"Longitude":71.75}
+{"Code":"s0000183","NameEn":"Haines Junction","NameFr":"Haines Junction","Province":"YT","Latitude":60.75,"Longitude":137.51}
+{"Code":"s0000185","NameEn":"Beauceville","NameFr":"Beauceville","Province":"QC","Latitude":46.2,"Longitude":70.78}
+{"Code":"s0000186","NameEn":"Lac-Mégantic","NameFr":"Lac-Mégantic","Province":"QC","Latitude":45.58,"Longitude":70.88}
+{"Code":"s0000187","NameEn":"Saint-Georges","NameFr":"Saint-Georges","Province":"QC","Latitude":46.12,"Longitude":70.67}
+{"Code":"s0000188","NameEn":"Fort Providence","NameFr":"Fort Providence","Province":"NT","Latitude":61.35,"Longitude":117.65}
+{"Code":"s0000189","NameEn":"Pine Falls","NameFr":"Pine Falls","Province":"MB","Latitude":50.57,"Longitude":96.22}
+{"Code":"s0000190","NameEn":"Victoria Beach","NameFr":"Victoria Beach","Province":"MB","Latitude":50.7,"Longitude":96.56}
+{"Code":"s0000191","NameEn":"Grand Beach","NameFr":"Grand Beach","Province":"MB","Latitude":50.55,"Longitude":96.63}
+{"Code":"s0000192","NameEn":"Broadview","NameFr":"Broadview","Province":"SK","Latitude":50.38,"Longitude":102.58}
+{"Code":"s0000193","NameEn":"Winnipeg","NameFr":"Winnipeg","Province":"MB","Latitude":49.88,"Longitude":97.15}
+{"Code":"s0000194","NameEn":"Charlevoix","NameFr":"Charlevoix","Province":"QC","Latitude":47.48,"Longitude":70.48}
+{"Code":"s0000195","NameEn":"Watrous","NameFr":"Watrous","Province":"SK","Latitude":51.69,"Longitude":105.46}
+{"Code":"s0000196","NameEn":"Humboldt","NameFr":"Humboldt","Province":"SK","Latitude":52.2,"Longitude":105.12}
+{"Code":"s0000197","NameEn":"Alma","NameFr":"Alma","Province":"QC","Latitude":48.55,"Longitude":71.65}
+{"Code":"s0000198","NameEn":"Mount Carleton (Provincial Park)","NameFr":"Mont Carleton (Parc provincial)","Province":"NB","Latitude":47.38,"Longitude":66.83}
+{"Code":"s0000199","NameEn":"Saint-Quentin","NameFr":"Saint-Quentin","Province":"NB","Latitude":47.51,"Longitude":67.39}
+{"Code":"s0000200","NameEn":"St. Leonard","NameFr":"St. Leonard","Province":"NB","Latitude":47.17,"Longitude":67.92}
+{"Code":"s0000201","NameEn":"Grand Falls","NameFr":"Grand-Sault","Province":"NB","Latitude":47.05,"Longitude":67.74}
+{"Code":"s0000202","NameEn":"Saint-Jean-sur-Richelieu","NameFr":"Saint-Jean-sur-Richelieu","Province":"QC","Latitude":45.32,"Longitude":73.27}
+{"Code":"s0000203","NameEn":"Saint-Luc","NameFr":"Saint-Luc","Province":"QC","Latitude":45.35,"Longitude":73.3}
+{"Code":"s0000204","NameEn":"Vanier","NameFr":"Vanier","Province":"QC","Latitude":46.82,"Longitude":71.26}
+{"Code":"s0000205","NameEn":"Bernières","NameFr":"Bernières","Province":"QC","Latitude":46.69,"Longitude":71.36}
+{"Code":"s0000206","NameEn":"Ennadai","NameFr":"Ennadai","Province":"NU","Latitude":61.13,"Longitude":100.88}
+{"Code":"s0000207","NameEn":"Grand Rapids","NameFr":"Grand Rapids","Province":"MB","Latitude":53.18,"Longitude":99.26}
+{"Code":"s0000208","NameEn":"Southend Reindeer","NameFr":"Southend Reindeer","Province":"SK","Latitude":56.32,"Longitude":103.27}
+{"Code":"s0000209","NameEn":"Assiniboia","NameFr":"Assiniboia","Province":"SK","Latitude":49.63,"Longitude":105.99}
+{"Code":"s0000210","NameEn":"Fort Liard","NameFr":"Fort Liard","Province":"NT","Latitude":60.23,"Longitude":123.47}
+{"Code":"s0000211","NameEn":"Saguenay","NameFr":"Saguenay","Province":"QC","Latitude":48.42,"Longitude":71.07}
+{"Code":"s0000212","NameEn":"Creston","NameFr":"Creston","Province":"BC","Latitude":49.1,"Longitude":116.5}
+{"Code":"s0000213","NameEn":"Mont-Tremblant","NameFr":"Mont-Tremblant","Province":"QC","Latitude":46.12,"Longitude":74.6}
+{"Code":"s0000214","NameEn":"Sainte-Agathe","NameFr":"Sainte-Agathe","Province":"QC","Latitude":46.05,"Longitude":74.28}
+{"Code":"s0000216","NameEn":"Vernon","NameFr":"Vernon","Province":"BC","Latitude":50.26,"Longitude":119.27}
+{"Code":"s0000217","NameEn":"Hinton","NameFr":"Hinton","Province":"AB","Latitude":53.41,"Longitude":117.56}
+{"Code":"s0000218","NameEn":"Jasper","NameFr":"Jasper","Province":"AB","Latitude":52.89,"Longitude":118.17}
+{"Code":"s0000219","NameEn":"Leader","NameFr":"Leader","Province":"SK","Latitude":50.89,"Longitude":109.55}
+{"Code":"s0000220","NameEn":"Marble Mountain","NameFr":"Marble Mountain","Province":"NL","Latitude":48.94,"Longitude":57.84}
+{"Code":"s0000221","NameEn":"Corner Brook","NameFr":"Corner Brook","Province":"NL","Latitude":48.94,"Longitude":57.97}
+{"Code":"s0000222","NameEn":"Lillooet","NameFr":"Lillooet","Province":"BC","Latitude":50.68,"Longitude":121.93}
+{"Code":"s0000223","NameEn":"Kejimkujik (National Park)","NameFr":"Kejimkujik (Parc national)","Province":"NS","Latitude":44.39,"Longitude":65.29}
+{"Code":"s0000224","NameEn":"Malahat","NameFr":"Malahat","Province":"BC","Latitude":48.55,"Longitude":123.57}
+{"Code":"s0000225","NameEn":"Rockglen","NameFr":"Rockglen","Province":"SK","Latitude":49.18,"Longitude":105.95}
+{"Code":"s0000226","NameEn":"Hope Slide","NameFr":"Hope Slide","Province":"BC","Latitude":49.3,"Longitude":121.27}
+{"Code":"s0000227","NameEn":"Dease Lake","NameFr":"Dease Lake","Province":"BC","Latitude":58.43,"Longitude":130.02}
+{"Code":"s0000228","NameEn":"Cassiar","NameFr":"Cassiar","Province":"BC","Latitude":59.29,"Longitude":129.85}
+{"Code":"s0000229","NameEn":"Lac La Biche","NameFr":"Lac La Biche","Province":"AB","Latitude":54.77,"Longitude":111.98}
+{"Code":"s0000230","NameEn":"Lucky Lake","NameFr":"Lucky Lake","Province":"SK","Latitude":50.99,"Longitude":107.13}
+{"Code":"s0000231","NameEn":"Ogoki","NameFr":"Ogoki","Province":"ON","Latitude":51.63,"Longitude":85.95}
+{"Code":"s0000232","NameEn":"Webequie","NameFr":"Webequie","Province":"ON","Latitude":52.99,"Longitude":87.36}
+{"Code":"s0000233","NameEn":"Lansdowne House","NameFr":"Lansdowne House","Province":"ON","Latitude":52.22,"Longitude":87.89}
+{"Code":"s0000234","NameEn":"Gonzales Point","NameFr":"Gonzales Point","Province":"BC","Latitude":48.41,"Longitude":123.29}
+{"Code":"s0000235","NameEn":"Wingham","NameFr":"Wingham","Province":"ON","Latitude":43.89,"Longitude":81.31}
+{"Code":"s0000236","NameEn":"Walkerton","NameFr":"Walkerton","Province":"ON","Latitude":44.13,"Longitude":81.15}
+{"Code":"s0000237","NameEn":"Dundalk","NameFr":"Dundalk","Province":"ON","Latitude":44.17,"Longitude":80.39}
+{"Code":"s0000238","NameEn":"North Perth","NameFr":"North Perth","Province":"ON","Latitude":43.73,"Longitude":80.97}
+{"Code":"s0000239","NameEn":"Shelburne","NameFr":"Shelburne","Province":"ON","Latitude":44.08,"Longitude":80.2}
+{"Code":"s0000240","NameEn":"Mount Forest","NameFr":"Mount Forest","Province":"ON","Latitude":43.98,"Longitude":80.74}
+{"Code":"s0000241","NameEn":"Waskesiu Lake","NameFr":"Waskesiu Lake","Province":"SK","Latitude":53.92,"Longitude":106.08}
+{"Code":"s0000242","NameEn":"Lytton","NameFr":"Lytton","Province":"BC","Latitude":50.23,"Longitude":121.57}
+{"Code":"s0000243","NameEn":"Miscou Island","NameFr":"Miscou Island","Province":"NB","Latitude":47.95,"Longitude":64.57}
+{"Code":"s0000244","NameEn":"Maniwaki","NameFr":"Maniwaki","Province":"QC","Latitude":46.38,"Longitude":75.97}
+{"Code":"s0000245","NameEn":"La Vérendrye (Réserve faunique)","NameFr":"La Vérendrye (Réserve faunique)","Province":"QC","Latitude":47.33,"Longitude":77.0}
+{"Code":"s0000246","NameEn":"Mont-Laurier","NameFr":"Mont-Laurier","Province":"QC","Latitude":46.55,"Longitude":75.5}
+{"Code":"s0000247","NameEn":"Pitt Meadows","NameFr":"Pitt Meadows","Province":"BC","Latitude":49.22,"Longitude":122.69}
+{"Code":"s0000248","NameEn":"Maple Creek","NameFr":"Maple Creek","Province":"SK","Latitude":49.91,"Longitude":109.48}
+{"Code":"s0000249","NameEn":"Whati","NameFr":"Whati","Province":"NT","Latitude":63.14,"Longitude":117.27}
+{"Code":"s0000250","NameEn":"Fredericton","NameFr":"Fredericton","Province":"NB","Latitude":45.95,"Longitude":66.67}
+{"Code":"s0000251","NameEn":"Cobourg","NameFr":"Cobourg","Province":"ON","Latitude":43.96,"Longitude":78.16}
+{"Code":"s0000252","NameEn":"North Cape","NameFr":"North Cape","Province":"PE","Latitude":47.07,"Longitude":64.0}
+{"Code":"s0000253","NameEn":"Rivière-du-Loup","NameFr":"Rivière-du-Loup","Province":"QC","Latitude":47.83,"Longitude":69.53}
+{"Code":"s0000254","NameEn":"Trois-Pistoles","NameFr":"Trois-Pistoles","Province":"QC","Latitude":48.12,"Longitude":69.18}
+{"Code":"s0000255","NameEn":"Temiscouata","NameFr":"Témiscouata","Province":"QC","Latitude":47.68,"Longitude":68.88}
+{"Code":"s0000256","NameEn":"Deerwood","NameFr":"Deerwood","Province":"MB","Latitude":49.4,"Longitude":98.39}
+{"Code":"s0000257","NameEn":"Carman","NameFr":"Carman","Province":"MB","Latitude":49.5,"Longitude":98.0}
+{"Code":"s0000258","NameEn":"Nelson","NameFr":"Nelson","Province":"BC","Latitude":49.5,"Longitude":117.28}
+{"Code":"s0000259","NameEn":"Nakusp","NameFr":"Nakusp","Province":"BC","Latitude":50.25,"Longitude":117.8}
+{"Code":"s0000260","NameEn":"Nicolet","NameFr":"Nicolet","Province":"QC","Latitude":46.22,"Longitude":72.62}
+{"Code":"s0000261","NameEn":"Drummondville","NameFr":"Drummondville","Province":"QC","Latitude":45.88,"Longitude":72.48}
+{"Code":"s0000262","NameEn":"Saint-Nicéphore","NameFr":"Saint-Nicéphore","Province":"QC","Latitude":45.83,"Longitude":72.42}
+{"Code":"s0000263","NameEn":"Kananaskis (Nakiska Ridgetop)","NameFr":"Kananaskis (Nakiska Ridgetop)","Province":"AB","Latitude":51.08,"Longitude":115.13}
+{"Code":"s0000264","NameEn":"North East Margaree","NameFr":"North East Margaree","Province":"NS","Latitude":46.33,"Longitude":61.01}
+{"Code":"s0000265","NameEn":"Baddeck","NameFr":"Baddeck","Province":"NS","Latitude":46.1,"Longitude":60.75}
+{"Code":"s0000266","NameEn":"Hearst","NameFr":"Hearst","Province":"ON","Latitude":49.69,"Longitude":83.65}
+{"Code":"s0000267","NameEn":"Hornepayne","NameFr":"Hornepayne","Province":"ON","Latitude":49.25,"Longitude":84.78}
+{"Code":"s0000268","NameEn":"New Carlisle","NameFr":"New Carlisle","Province":"QC","Latitude":48.02,"Longitude":65.33}
+{"Code":"s0000269","NameEn":"Bonaventure","NameFr":"Bonaventure","Province":"QC","Latitude":48.05,"Longitude":65.48}
+{"Code":"s0000270","NameEn":"Dolbeau-Mistassini","NameFr":"Dolbeau-Mistassini","Province":"QC","Latitude":48.88,"Longitude":72.23}
+{"Code":"s0000272","NameEn":"Onefour","NameFr":"Onefour","Province":"AB","Latitude":49.12,"Longitude":110.47}
+{"Code":"s0000273","NameEn":"Oak Point","NameFr":"Oak Point","Province":"MB","Latitude":50.51,"Longitude":98.03}
+{"Code":"s0000274","NameEn":"Elbow","NameFr":"Elbow","Province":"SK","Latitude":51.12,"Longitude":106.6}
+{"Code":"s0000275","NameEn":"Dawson","NameFr":"Dawson","Province":"YT","Latitude":64.06,"Longitude":139.43}
+{"Code":"s0000276","NameEn":"McCreary","NameFr":"McCreary","Province":"MB","Latitude":50.77,"Longitude":99.49}
+{"Code":"s0000277","NameEn":"Breton","NameFr":"Breton","Province":"AB","Latitude":53.11,"Longitude":114.47}
+{"Code":"s0000278","NameEn":"Wynyard","NameFr":"Wynyard","Province":"SK","Latitude":51.77,"Longitude":104.18}
+{"Code":"s0000279","NameEn":"Hendrickson Creek","NameFr":"Hendrickson Creek","Province":"AB","Latitude":53.77,"Longitude":118.37}
+{"Code":"s0000280","NameEn":"St. John's","NameFr":"St. John's","Province":"NL","Latitude":47.57,"Longitude":52.73}
+{"Code":"s0000281","NameEn":"Midland","NameFr":"Midland","Province":"ON","Latitude":44.75,"Longitude":79.88}
+{"Code":"s0000282","NameEn":"Fort Erie","NameFr":"Fort Erie","Province":"ON","Latitude":42.92,"Longitude":79.02}
+{"Code":"s0000283","NameEn":"Port Colborne","NameFr":"Port Colborne","Province":"ON","Latitude":42.92,"Longitude":79.19}
+{"Code":"s0000284","NameEn":"Laurentides (Réserve faunique)","NameFr":"Laurentides (Réserve faunique)","Province":"QC","Latitude":47.75,"Longitude":71.25}
+{"Code":"s0000285","NameEn":"Point Lepreau","NameFr":"Point Lepreau","Province":"NB","Latitude":45.07,"Longitude":66.45}
+{"Code":"s0000286","NameEn":"Esquimalt","NameFr":"Esquimalt","Province":"BC","Latitude":48.45,"Longitude":123.42}
+{"Code":"s0000287","NameEn":"Parent","NameFr":"Parent","Province":"QC","Latitude":47.92,"Longitude":74.62}
+{"Code":"s0000288","NameEn":"Gouin (Réservoir)","NameFr":"Gouin (Réservoir)","Province":"QC","Latitude":48.63,"Longitude":74.9}
+{"Code":"s0000289","NameEn":"Pilot Mound","NameFr":"Pilot Mound","Province":"MB","Latitude":49.2,"Longitude":98.89}
+{"Code":"s0000290","NameEn":"Terrebonne","NameFr":"Terrebonne","Province":"QC","Latitude":45.7,"Longitude":73.63}
+{"Code":"s0000291","NameEn":"Princeton","NameFr":"Princeton","Province":"BC","Latitude":49.46,"Longitude":120.51}
+{"Code":"s0000292","NameEn":"Puntzi Mountain","NameFr":"Puntzi Mountain","Province":"BC","Latitude":52.17,"Longitude":124.2}
+{"Code":"s0000293","NameEn":"Burns Lake","NameFr":"Burns Lake","Province":"BC","Latitude":54.23,"Longitude":125.75}
+{"Code":"s0000294","NameEn":"Port Alberni","NameFr":"Port Alberni","Province":"BC","Latitude":49.24,"Longitude":124.8}
+{"Code":"s0000295","NameEn":"Tadoussac","NameFr":"Tadoussac","Province":"QC","Latitude":48.15,"Longitude":69.72}
+{"Code":"s0000296","NameEn":"Coaticook","NameFr":"Coaticook","Province":"QC","Latitude":45.13,"Longitude":71.8}
+{"Code":"s0000297","NameEn":"Lacombe","NameFr":"Lacombe","Province":"AB","Latitude":52.46,"Longitude":113.73}
+{"Code":"s0000298","NameEn":"Cape Race","NameFr":"Cape Race","Province":"NL","Latitude":46.66,"Longitude":53.07}
+{"Code":"s0000299","NameEn":"Red Earth Creek","NameFr":"Red Earth Creek","Province":"AB","Latitude":56.54,"Longitude":115.29}
+{"Code":"s0000300","NameEn":"Rosetown","NameFr":"Rosetown","Province":"SK","Latitude":51.55,"Longitude":107.99}
+{"Code":"s0000301","NameEn":"Bancroft","NameFr":"Bancroft","Province":"ON","Latitude":45.06,"Longitude":77.76}
+{"Code":"s0000302","NameEn":"Barry's Bay","NameFr":"Barry's Bay","Province":"ON","Latitude":45.49,"Longitude":77.68}
+{"Code":"s0000303","NameEn":"Haliburton","NameFr":"Haliburton","Province":"ON","Latitude":45.05,"Longitude":78.51}
+{"Code":"s0000304","NameEn":"Apsley","NameFr":"Apsley","Province":"ON","Latitude":44.76,"Longitude":78.09}
+{"Code":"s0000305","NameEn":"Kaladar","NameFr":"Kaladar","Province":"ON","Latitude":44.65,"Longitude":77.12}
+{"Code":"s0000306","NameEn":"Rocky Mountain House","NameFr":"Rocky Mountain House","Province":"AB","Latitude":52.37,"Longitude":114.92}
+{"Code":"s0000307","NameEn":"St. Peter's","NameFr":"St. Peter's","Province":"NS","Latitude":45.66,"Longitude":60.88}
+{"Code":"s0000308","NameEn":"Hart Island","NameFr":"Hart Island","Province":"NS","Latitude":45.35,"Longitude":60.98}
+{"Code":"s0000309","NameEn":"Rock River","NameFr":"Rock River","Province":"YT","Latitude":66.98,"Longitude":136.22}
+{"Code":"s0000310","NameEn":"Crowsnest","NameFr":"Crowsnest","Province":"AB","Latitude":49.63,"Longitude":114.69}
+{"Code":"s0000311","NameEn":"Camrose","NameFr":"Camrose","Province":"AB","Latitude":53.02,"Longitude":112.82}
+{"Code":"s0000312","NameEn":"Wetaskiwin","NameFr":"Wetaskiwin","Province":"AB","Latitude":52.97,"Longitude":113.38}
+{"Code":"s0000313","NameEn":"Milk River","NameFr":"Milk River","Province":"AB","Latitude":49.15,"Longitude":112.09}
+{"Code":"s0000314","NameEn":"Percé","NameFr":"Percé","Province":"QC","Latitude":48.53,"Longitude":64.22}
+{"Code":"s0000315","NameEn":"Chandler","NameFr":"Chandler","Province":"QC","Latitude":48.35,"Longitude":64.68}
+{"Code":"s0000316","NameEn":"Gibsons","NameFr":"Gibsons","Province":"BC","Latitude":49.4,"Longitude":123.5}
+{"Code":"s0000317","NameEn":"Sechelt","NameFr":"Sechelt","Province":"BC","Latitude":49.47,"Longitude":123.77}
+{"Code":"s0000318","NameEn":"Halifax","NameFr":"Halifax","Province":"NS","Latitude":44.87,"Longitude":63.72}
+{"Code":"s0000319","NameEn":"Grande-Vallée","NameFr":"Grande-Vallée","Province":"QC","Latitude":49.22,"Longitude":65.13}
+{"Code":"s0000320","NameEn":"Cap Chat","NameFr":"Cap Chat","Province":"QC","Latitude":49.1,"Longitude":66.68}
+{"Code":"s0000321","NameEn":"Gaspésie (Parc national)","NameFr":"Gaspésie (Parc national)","Province":"QC","Latitude":48.93,"Longitude":66.28}
+{"Code":"s0000322","NameEn":"Sainte-Anne-Des-Monts","NameFr":"Sainte-Anne-Des-Monts","Province":"QC","Latitude":49.13,"Longitude":66.5}
+{"Code":"s0000323","NameEn":"Squamish","NameFr":"Squamish","Province":"BC","Latitude":49.75,"Longitude":123.13}
+{"Code":"s0000324","NameEn":"Salmon Arm","NameFr":"Salmon Arm","Province":"BC","Latitude":50.7,"Longitude":119.27}
+{"Code":"s0000325","NameEn":"Stratford","NameFr":"Stratford","Province":"ON","Latitude":43.37,"Longitude":80.98}
+{"Code":"s0000326","NameEn":"London","NameFr":"London","Province":"ON","Latitude":42.97,"Longitude":81.23}
+{"Code":"s0000327","NameEn":"Woodstock","NameFr":"Woodstock","Province":"ON","Latitude":43.14,"Longitude":80.74}
+{"Code":"s0000328","NameEn":"Strathroy","NameFr":"Strathroy","Province":"ON","Latitude":42.96,"Longitude":81.62}
+{"Code":"s0000329","NameEn":"St. Thomas","NameFr":"St. Thomas","Province":"ON","Latitude":42.78,"Longitude":81.19}
+{"Code":"s0000330","NameEn":"Spiritwood","NameFr":"Spiritwood","Province":"SK","Latitude":53.37,"Longitude":107.52}
+{"Code":"s0000331","NameEn":"Saint Andrews","NameFr":"Saint Andrews","Province":"NB","Latitude":45.08,"Longitude":67.06}
+{"Code":"s0000332","NameEn":"St. Stephen","NameFr":"St. Stephen","Province":"NB","Latitude":45.22,"Longitude":67.33}
+{"Code":"s0000333","NameEn":"La Malbaie","NameFr":"La Malbaie","Province":"QC","Latitude":47.65,"Longitude":70.15}
+{"Code":"s0000334","NameEn":"Montmagny","NameFr":"Montmagny","Province":"QC","Latitude":46.98,"Longitude":70.55}
+{"Code":"s0000335","NameEn":"Kamouraska","NameFr":"Kamouraska","Province":"QC","Latitude":47.57,"Longitude":69.87}
+{"Code":"s0000336","NameEn":"L'Islet","NameFr":"L'Islet","Province":"QC","Latitude":47.1,"Longitude":70.35}
+{"Code":"s0000337","NameEn":"Sprague","NameFr":"Sprague","Province":"MB","Latitude":49.04,"Longitude":95.64}
+{"Code":"s0000338","NameEn":"Sachs Harbour","NameFr":"Sachs Harbour","Province":"NT","Latitude":71.98,"Longitude":125.24}
+{"Code":"s0000339","NameEn":"Fisher Branch","NameFr":"Fisher Branch","Province":"MB","Latitude":51.08,"Longitude":97.62}
+{"Code":"s0000340","NameEn":"Trout Lake","NameFr":"Trout Lake","Province":"NT","Latitude":60.43,"Longitude":121.25}
+{"Code":"s0000341","NameEn":"Tetsa River (Provincial Park)","NameFr":"Tetsa River (Parc provincial)","Province":"BC","Latitude":58.65,"Longitude":123.95}
+{"Code":"s0000342","NameEn":"Baie-Saint-Paul","NameFr":"Baie-Saint-Paul","Province":"QC","Latitude":47.45,"Longitude":70.5}
+{"Code":"s0000343","NameEn":"Biggar","NameFr":"Biggar","Province":"SK","Latitude":52.06,"Longitude":107.98}
+{"Code":"s0000344","NameEn":"Scott","NameFr":"Scott","Province":"SK","Latitude":52.37,"Longitude":108.83}
+{"Code":"s0000345","NameEn":"Magog","NameFr":"Magog","Province":"QC","Latitude":45.27,"Longitude":72.15}
+{"Code":"s0000346","NameEn":"Trois-Rivières","NameFr":"Trois-Rivières","Province":"QC","Latitude":46.35,"Longitude":72.58}
+{"Code":"s0000347","NameEn":"Bécancour","NameFr":"Bécancour","Province":"QC","Latitude":46.33,"Longitude":72.43}
+{"Code":"s0000348","NameEn":"Louiseville","NameFr":"Louiseville","Province":"QC","Latitude":46.25,"Longitude":72.95}
+{"Code":"s0000349","NameEn":"Faro","NameFr":"Faro","Province":"YT","Latitude":62.23,"Longitude":133.36}
+{"Code":"s0000350","NameEn":"Ross River","NameFr":"Ross River","Province":"YT","Latitude":61.98,"Longitude":132.43}
+{"Code":"s0000351","NameEn":"Summerland","NameFr":"Summerland","Province":"BC","Latitude":49.6,"Longitude":119.67}
+{"Code":"s0000352","NameEn":"Shoal Lake","NameFr":"Shoal Lake","Province":"MB","Latitude":50.44,"Longitude":100.59}
+{"Code":"s0000353","NameEn":"Rouyn-Noranda","NameFr":"Rouyn-Noranda","Province":"QC","Latitude":48.23,"Longitude":79.02}
+{"Code":"s0000354","NameEn":"La Sarre","NameFr":"La Sarre","Province":"QC","Latitude":48.8,"Longitude":79.2}
+{"Code":"s0000355","NameEn":"Swift Current","NameFr":"Swift Current","Province":"SK","Latitude":50.29,"Longitude":107.79}
+{"Code":"s0000356","NameEn":"Vegreville","NameFr":"Vegreville","Province":"AB","Latitude":53.5,"Longitude":112.05}
+{"Code":"s0000357","NameEn":"Val Marie","NameFr":"Val Marie","Province":"SK","Latitude":49.25,"Longitude":107.73}
+{"Code":"s0000358","NameEn":"Vauxhall","NameFr":"Vauxhall","Province":"AB","Latitude":50.07,"Longitude":112.11}
+{"Code":"s0000359","NameEn":"Taber","NameFr":"Taber","Province":"AB","Latitude":49.78,"Longitude":112.15}
+{"Code":"s0000360","NameEn":"Cypress Hills (Provincial Park)","NameFr":"Cypress Hills (Parc provincial)","Province":"SK","Latitude":49.63,"Longitude":109.75}
+{"Code":"s0000361","NameEn":"Deux-Montagnes","NameFr":"Deux-Montagnes","Province":"QC","Latitude":45.53,"Longitude":73.88}
+{"Code":"s0000362","NameEn":"Vaudreuil-Dorion","NameFr":"Vaudreuil-Dorion","Province":"QC","Latitude":45.4,"Longitude":74.03}
+{"Code":"s0000363","NameEn":"Pincourt","NameFr":"Pincourt","Province":"QC","Latitude":45.38,"Longitude":73.98}
+{"Code":"s0000364","NameEn":"Digby","NameFr":"Digby","Province":"NS","Latitude":44.62,"Longitude":65.76}
+{"Code":"s0000365","NameEn":"Brier Island","NameFr":"Brier Island","Province":"NS","Latitude":44.27,"Longitude":66.37}
+{"Code":"s0000366","NameEn":"Yellowknife","NameFr":"Yellowknife","Province":"NT","Latitude":62.46,"Longitude":114.35}
+{"Code":"s0000367","NameEn":"Oakville","NameFr":"Oakville","Province":"ON","Latitude":43.46,"Longitude":79.71}
+{"Code":"s0000368","NameEn":"Burlington","NameFr":"Burlington","Province":"ON","Latitude":43.37,"Longitude":79.81}
+{"Code":"s0000369","NameEn":"Collins Bay","NameFr":"Collins Bay","Province":"SK","Latitude":58.28,"Longitude":103.63}
+{"Code":"s0000370","NameEn":"Western Head","NameFr":"Western Head","Province":"NS","Latitude":43.99,"Longitude":64.67}
+{"Code":"s0000371","NameEn":"Liverpool","NameFr":"Liverpool","Province":"NS","Latitude":44.04,"Longitude":64.72}
+{"Code":"s0000372","NameEn":"Weyburn","NameFr":"Weyburn","Province":"SK","Latitude":49.66,"Longitude":103.85}
+{"Code":"s0000373","NameEn":"White Rock","NameFr":"White Rock","Province":"BC","Latitude":49.02,"Longitude":122.8}
+{"Code":"s0000374","NameEn":"Peawanuck","NameFr":"Peawanuck","Province":"ON","Latitude":55.02,"Longitude":85.42}
+{"Code":"s0000375","NameEn":"Wasagaming","NameFr":"Wasagaming","Province":"MB","Latitude":50.66,"Longitude":99.97}
+{"Code":"s0000376","NameEn":"Muncho Lake","NameFr":"Muncho Lake","Province":"BC","Latitude":58.93,"Longitude":125.77}
+{"Code":"s0000377","NameEn":"Liard River","NameFr":"Liard River","Province":"BC","Latitude":59.42,"Longitude":126.08}
+{"Code":"s0000378","NameEn":"Poplar River","NameFr":"Poplar River","Province":"MB","Latitude":52.99,"Longitude":97.28}
+{"Code":"s0000379","NameEn":"Bow Valley (Provincial Park)","NameFr":"Bow Valley (Parc provincial)","Province":"AB","Latitude":51.08,"Longitude":115.07}
+{"Code":"s0000380","NameEn":"Roblin","NameFr":"Roblin","Province":"MB","Latitude":51.23,"Longitude":101.36}
+{"Code":"s0000381","NameEn":"Last Mountain Lake (Sanctuary)","NameFr":"Last Mountain Lake (Sanctuaire)","Province":"SK","Latitude":51.37,"Longitude":105.23}
+{"Code":"s0000382","NameEn":"Bow Island","NameFr":"Ile Bow","Province":"AB","Latitude":49.87,"Longitude":111.38}
+{"Code":"s0000383","NameEn":"High River","NameFr":"High River","Province":"AB","Latitude":50.58,"Longitude":113.87}
+{"Code":"s0000384","NameEn":"Stavely","NameFr":"Stavely","Province":"AB","Latitude":50.16,"Longitude":113.64}
+{"Code":"s0000385","NameEn":"Tracadie-Sheila","NameFr":"Tracadie-Sheila","Province":"NB","Latitude":47.51,"Longitude":64.92}
+{"Code":"s0000386","NameEn":"Bas-Caraquet","NameFr":"Bas-Caraquet","Province":"NB","Latitude":47.8,"Longitude":64.83}
+{"Code":"s0000387","NameEn":"Outlook","NameFr":"Outlook","Province":"SK","Latitude":51.49,"Longitude":107.05}
+{"Code":"s0000388","NameEn":"Gameti","NameFr":"Gameti","Province":"NT","Latitude":64.12,"Longitude":117.35}
+{"Code":"s0000389","NameEn":"Indin River","NameFr":"Indin River","Province":"NT","Latitude":64.28,"Longitude":115.07}
+{"Code":"s0000390","NameEn":"Victoria (University of)","NameFr":"Victoria (Université de)","Province":"BC","Latitude":48.43,"Longitude":123.37}
+{"Code":"s0000391","NameEn":"Kootenay (National Park)","NameFr":"Kootenay (Parc national)","Province":"BC","Latitude":50.95,"Longitude":116.03}
+{"Code":"s0000392","NameEn":"Yoho (National Park)","NameFr":"Yoho (Parc national)","Province":"BC","Latitude":51.5,"Longitude":116.5}
+{"Code":"s0000393","NameEn":"Rimouski","NameFr":"Rimouski","Province":"QC","Latitude":48.45,"Longitude":68.53}
+{"Code":"s0000394","NameEn":"Iqaluit","NameFr":"Iqaluit","Province":"NU","Latitude":63.75,"Longitude":68.52}
+{"Code":"s0000395","NameEn":"Gull Bay","NameFr":"Gull Bay","Province":"ON","Latitude":49.8,"Longitude":89.11}
+{"Code":"s0000396","NameEn":"Rock Creek","NameFr":"Rock Creek","Province":"BC","Latitude":49.05,"Longitude":119.0}
+{"Code":"s0000397","NameEn":"Osoyoos","NameFr":"Osoyoos","Province":"BC","Latitude":49.03,"Longitude":119.45}
+{"Code":"s0000398","NameEn":"Chilliwack","NameFr":"Chilliwack","Province":"BC","Latitude":49.18,"Longitude":121.94}
+{"Code":"s0000399","NameEn":"Agassiz","NameFr":"Agassiz","Province":"BC","Latitude":49.23,"Longitude":121.77}
+{"Code":"s0000400","NameEn":"Channel-Port aux Basques","NameFr":"Channel-Port aux Basques","Province":"NL","Latitude":47.58,"Longitude":59.14}
+{"Code":"s0000401","NameEn":"Carberry","NameFr":"Carberry","Province":"MB","Latitude":49.87,"Longitude":99.36}
+{"Code":"s0000402","NameEn":"Shilo","NameFr":"Shilo","Province":"MB","Latitude":49.81,"Longitude":99.64}
+{"Code":"s0000403","NameEn":"Canmore","NameFr":"Canmore","Province":"AB","Latitude":51.08,"Longitude":115.37}
+{"Code":"s0000404","NameEn":"Banff","NameFr":"Banff","Province":"AB","Latitude":51.18,"Longitude":115.57}
+{"Code":"s0000405","NameEn":"Grand Étang","NameFr":"Grand Étang","Province":"NS","Latitude":46.55,"Longitude":61.05}
+{"Code":"s0000406","NameEn":"Amqui","NameFr":"Amqui","Province":"QC","Latitude":48.47,"Longitude":67.43}
+{"Code":"s0000407","NameEn":"Matapedia","NameFr":"Matapédia","Province":"QC","Latitude":47.97,"Longitude":66.95}
+{"Code":"s0000408","NameEn":"Vallée de la Matapédia","NameFr":"Vallée de la Matapédia","Province":"QC","Latitude":48.17,"Longitude":67.14}
+{"Code":"s0000409","NameEn":"Atlin","NameFr":"Atlin","Province":"BC","Latitude":59.57,"Longitude":133.7}
+{"Code":"s0000410","NameEn":"Teslin","NameFr":"Teslin","Province":"YT","Latitude":60.17,"Longitude":132.72}
+{"Code":"s0000411","NameEn":"Thunder Bay","NameFr":"Thunder Bay","Province":"ON","Latitude":48.4,"Longitude":89.27}
+{"Code":"s0000412","NameEn":"Arctic Bay","NameFr":"Arctic Bay","Province":"NU","Latitude":73.03,"Longitude":85.17}
+{"Code":"s0000413","NameEn":"Barrhead","NameFr":"Barrhead","Province":"AB","Latitude":54.12,"Longitude":114.4}
+{"Code":"s0000414","NameEn":"Orillia","NameFr":"Orillia","Province":"ON","Latitude":44.6,"Longitude":79.42}
+{"Code":"s0000415","NameEn":"Barrie","NameFr":"Barrie","Province":"ON","Latitude":44.37,"Longitude":79.68}
+{"Code":"s0000416","NameEn":"Lévis","NameFr":"Lévis","Province":"QC","Latitude":46.8,"Longitude":71.18}
+{"Code":"s0000417","NameEn":"Tadoule Lake","NameFr":"Tadoule Lake","Province":"MB","Latitude":58.71,"Longitude":98.48}
+{"Code":"s0000418","NameEn":"Greenstone (Beardmore)","NameFr":"Greenstone (Beardmore)","Province":"ON","Latitude":49.6,"Longitude":87.96}
+{"Code":"s0000419","NameEn":"Nipigon","NameFr":"Nipigon","Province":"ON","Latitude":48.98,"Longitude":88.33}
+{"Code":"s0000420","NameEn":"Chéticamp","NameFr":"Chéticamp","Province":"NS","Latitude":46.63,"Longitude":61.01}
+{"Code":"s0000421","NameEn":"Carmacks","NameFr":"Carmacks","Province":"YT","Latitude":62.09,"Longitude":136.3}
+{"Code":"s0000422","NameEn":"Tobermory","NameFr":"Tobermory","Province":"ON","Latitude":45.25,"Longitude":81.66}
+{"Code":"s0000423","NameEn":"Deline","NameFr":"Deline","Province":"NT","Latitude":65.19,"Longitude":123.42}
+{"Code":"s0000424","NameEn":"Simcoe","NameFr":"Simcoe","Province":"ON","Latitude":42.84,"Longitude":80.31}
+{"Code":"s0000425","NameEn":"Tillsonburg","NameFr":"Tillsonburg","Province":"ON","Latitude":42.87,"Longitude":80.73}
+{"Code":"s0000426","NameEn":"Norfolk","NameFr":"Norfolk","Province":"ON","Latitude":42.8,"Longitude":80.41}
+{"Code":"s0000427","NameEn":"Westlock","NameFr":"Westlock","Province":"AB","Latitude":54.16,"Longitude":113.86}
+{"Code":"s0000428","NameEn":"Ear Falls","NameFr":"Ear Falls","Province":"ON","Latitude":50.64,"Longitude":93.24}
+{"Code":"s0000429","NameEn":"New Tecumseth","NameFr":"New Tecumseth","Province":"ON","Latitude":44.08,"Longitude":79.77}
+{"Code":"s0000430","NameEn":"Ottawa (Kanata - Orléans)","NameFr":"Ottawa (Kanata - Orléans)","Province":"ON","Latitude":45.33,"Longitude":75.58}
+{"Code":"s0000431","NameEn":"Leamington","NameFr":"Leamington","Province":"ON","Latitude":42.1,"Longitude":82.56}
+{"Code":"s0000432","NameEn":"Ulukhaktok","NameFr":"Ulukhaktok","Province":"NT","Latitude":70.73,"Longitude":117.75}
+{"Code":"s0000433","NameEn":"Ingonish","NameFr":"Ingonish","Province":"NS","Latitude":46.69,"Longitude":60.37}
+{"Code":"s0000434","NameEn":"Smiths Falls","NameFr":"Smiths Falls","Province":"ON","Latitude":44.9,"Longitude":76.02}
+{"Code":"s0000435","NameEn":"Sharbot Lake","NameFr":"Sharbot Lake","Province":"ON","Latitude":44.77,"Longitude":76.69}
+{"Code":"s0000436","NameEn":"Kemptville","NameFr":"Kemptville","Province":"ON","Latitude":45.02,"Longitude":75.64}
+{"Code":"s0000437","NameEn":"Kirkland Lake","NameFr":"Kirkland Lake","Province":"ON","Latitude":48.15,"Longitude":80.03}
+{"Code":"s0000438","NameEn":"Windsor","NameFr":"Windsor","Province":"NS","Latitude":44.99,"Longitude":64.14}
+{"Code":"s0000439","NameEn":"Kentville","NameFr":"Kentville","Province":"NS","Latitude":45.08,"Longitude":64.5}
+{"Code":"s0000440","NameEn":"Lunenburg","NameFr":"Lunenburg","Province":"NS","Latitude":44.38,"Longitude":64.31}
+{"Code":"s0000441","NameEn":"Bridgewater","NameFr":"Bridgewater","Province":"NS","Latitude":44.38,"Longitude":64.52}
+{"Code":"s0000442","NameEn":"Wekweeti","NameFr":"Wekweeti","Province":"NT","Latitude":64.19,"Longitude":114.18}
+{"Code":"s0000443","NameEn":"Lutselke","NameFr":"Lutselke","Province":"NT","Latitude":62.41,"Longitude":110.74}
+{"Code":"s0000444","NameEn":"Morden","NameFr":"Morden","Province":"MB","Latitude":49.19,"Longitude":98.1}
+{"Code":"s0000445","NameEn":"Winkler","NameFr":"Winkler","Province":"MB","Latitude":49.18,"Longitude":97.94}
+{"Code":"s0000446","NameEn":"Sheet Harbour","NameFr":"Sheet Harbour","Province":"NS","Latitude":44.92,"Longitude":62.54}
+{"Code":"s0000447","NameEn":"Malay Falls","NameFr":"Malay Falls","Province":"NS","Latitude":44.99,"Longitude":62.48}
+{"Code":"s0000448","NameEn":"Nordegg","NameFr":"Nordegg","Province":"AB","Latitude":52.47,"Longitude":116.08}
+{"Code":"s0000449","NameEn":"Sackville","NameFr":"Sackville","Province":"NB","Latitude":45.92,"Longitude":64.39}
+{"Code":"s0000450","NameEn":"Amherst","NameFr":"Amherst","Province":"NS","Latitude":45.83,"Longitude":64.21}
+{"Code":"s0000451","NameEn":"Parry Sound","NameFr":"Parry Sound","Province":"ON","Latitude":45.35,"Longitude":80.04}
+{"Code":"s0000452","NameEn":"Dunchurch","NameFr":"Dunchurch","Province":"ON","Latitude":45.65,"Longitude":79.85}
+{"Code":"s0000453","NameEn":"Stony Plain","NameFr":"Stony Plain","Province":"AB","Latitude":53.53,"Longitude":114.01}
+{"Code":"s0000454","NameEn":"Chatham-Kent","NameFr":"Chatham-Kent","Province":"ON","Latitude":42.43,"Longitude":82.13}
+{"Code":"s0000455","NameEn":"Rodney","NameFr":"Rodney","Province":"ON","Latitude":42.57,"Longitude":81.68}
+{"Code":"s0000456","NameEn":"Rocky Harbour","NameFr":"Rocky Harbour","Province":"NL","Latitude":49.59,"Longitude":57.92}
+{"Code":"s0000457","NameEn":"Gros Morne","NameFr":"Gros Morne","Province":"NL","Latitude":49.69,"Longitude":57.74}
+{"Code":"s0000458","NameEn":"Toronto","NameFr":"Toronto","Province":"ON","Latitude":43.74,"Longitude":79.37}
+{"Code":"s0000459","NameEn":"Lanaudière","NameFr":"Lanaudière","Province":"QC","Latitude":46.3,"Longitude":73.2}
+{"Code":"s0000460","NameEn":"Port Hawkesbury","NameFr":"Port Hawkesbury","Province":"NS","Latitude":45.62,"Longitude":61.36}
+{"Code":"s0000461","NameEn":"Tracadie","NameFr":"Tracadie","Province":"NS","Latitude":45.62,"Longitude":61.67}
+{"Code":"s0000462","NameEn":"Antigonish","NameFr":"Antigonish","Province":"NS","Latitude":45.62,"Longitude":61.99}
+{"Code":"s0000463","NameEn":"Cape George","NameFr":"Cape George","Province":"NS","Latitude":45.85,"Longitude":61.93}
+{"Code":"s0000464","NameEn":"Guysborough","NameFr":"Guysborough","Province":"NS","Latitude":45.39,"Longitude":61.5}
+{"Code":"s0000465","NameEn":"Tatlayoko Lake","NameFr":"Tatlayoko Lake","Province":"BC","Latitude":51.72,"Longitude":124.43}
+{"Code":"s0000466","NameEn":"Clarenville","NameFr":"Clarenville","Province":"NL","Latitude":48.16,"Longitude":53.98}
+{"Code":"s0000467","NameEn":"Terra Nova (National Park)","NameFr":"Terra Nova (Parc national)","Province":"NL","Latitude":48.53,"Longitude":53.93}
+{"Code":"s0000468","NameEn":"Drayton Valley","NameFr":"Drayton Valley","Province":"AB","Latitude":53.22,"Longitude":114.98}
+{"Code":"s0000469","NameEn":"Vineland","NameFr":"Vineland","Province":"ON","Latitude":43.15,"Longitude":79.39}
+{"Code":"s0000470","NameEn":"Lincoln","NameFr":"Lincoln","Province":"ON","Latitude":43.15,"Longitude":79.42}
+{"Code":"s0000471","NameEn":"Trail","NameFr":"Trail","Province":"BC","Latitude":49.1,"Longitude":117.7}
+{"Code":"s0000472","NameEn":"Winnipeg (The Forks)","NameFr":"Winnipeg (La Fourche)","Province":"MB","Latitude":49.89,"Longitude":97.13}
+{"Code":"s0000473","NameEn":"Winterland","NameFr":"Winterland","Province":"NL","Latitude":47.16,"Longitude":55.31}
+{"Code":"s0000474","NameEn":"Marystown","NameFr":"Marystown","Province":"NL","Latitude":47.17,"Longitude":55.17}
+{"Code":"s0000475","NameEn":"Grand Bank","NameFr":"Grand Bank","Province":"NL","Latitude":47.1,"Longitude":55.77}
+{"Code":"s0000476","NameEn":"Nahanni Butte","NameFr":"Nahanni Butte","Province":"NT","Latitude":61.03,"Longitude":123.39}
+{"Code":"s0000477","NameEn":"Whitecourt","NameFr":"Whitecourt","Province":"AB","Latitude":54.14,"Longitude":115.68}
+{"Code":"s0000478","NameEn":"La Grande-Quatre","NameFr":"La Grande-Quatre","Province":"QC","Latitude":53.83,"Longitude":73.53}
+{"Code":"s0000479","NameEn":"Sault Ste. Marie","NameFr":"Sault Ste. Marie","Province":"ON","Latitude":46.56,"Longitude":84.35}
+{"Code":"s0000480","NameEn":"Kangirsuk","NameFr":"Kangirsuk","Province":"QC","Latitude":60.02,"Longitude":70.03}
+{"Code":"s0000481","NameEn":"Tofino","NameFr":"Tofino","Province":"BC","Latitude":49.12,"Longitude":125.88}
+{"Code":"s0000482","NameEn":"Ucluelet","NameFr":"Ucluelet","Province":"BC","Latitude":48.94,"Longitude":125.55}
+{"Code":"s0000483","NameEn":"Baie-Comeau","NameFr":"Baie-Comeau","Province":"QC","Latitude":49.22,"Longitude":68.15}
+{"Code":"s0000484","NameEn":"Forestville","NameFr":"Forestville","Province":"QC","Latitude":48.73,"Longitude":69.08}
+{"Code":"s0000485","NameEn":"Bella Coola","NameFr":"Bella Coola","Province":"BC","Latitude":52.38,"Longitude":126.75}
+{"Code":"s0000486","NameEn":"Bagotville","NameFr":"Bagotville","Province":"QC","Latitude":48.35,"Longitude":70.88}
+{"Code":"s0000487","NameEn":"Baker Lake","NameFr":"Baker Lake","Province":"NU","Latitude":64.32,"Longitude":96.02}
+{"Code":"s0000488","NameEn":"Campbell River","NameFr":"Campbell River","Province":"BC","Latitude":50.02,"Longitude":125.24}
+{"Code":"s0000489","NameEn":"Alliston","NameFr":"Alliston","Province":"ON","Latitude":44.15,"Longitude":79.86}
+{"Code":"s0000490","NameEn":"Minnedosa","NameFr":"Minnedosa","Province":"MB","Latitude":50.25,"Longitude":99.84}
+{"Code":"s0000491","NameEn":"Souris","NameFr":"Souris","Province":"MB","Latitude":49.62,"Longitude":100.26}
+{"Code":"s0000492","NameEn":"Brandon","NameFr":"Brandon","Province":"MB","Latitude":49.85,"Longitude":99.95}
+{"Code":"s0000493","NameEn":"Cochrane","NameFr":"Cochrane","Province":"AB","Latitude":51.21,"Longitude":114.47}
+{"Code":"s0000494","NameEn":"Blanc-Sablon","NameFr":"Blanc-Sablon","Province":"QC","Latitude":51.42,"Longitude":57.13}
+{"Code":"s0000495","NameEn":"Cambridge Bay","NameFr":"Cambridge Bay","Province":"NU","Latitude":69.11,"Longitude":105.05}
+{"Code":"s0000496","NameEn":"Nanaimo","NameFr":"Nanaimo","Province":"BC","Latitude":49.17,"Longitude":123.93}
+{"Code":"s0000497","NameEn":"Castlegar","NameFr":"Castlegar","Province":"BC","Latitude":49.3,"Longitude":117.67}
+{"Code":"s0000498","NameEn":"Kugluktuk","NameFr":"Kugluktuk","Province":"NU","Latitude":67.83,"Longitude":115.09}
+{"Code":"s0000499","NameEn":"Blue River","NameFr":"Blue River","Province":"BC","Latitude":52.1,"Longitude":119.3}
+{"Code":"s0000500","NameEn":"Chetwynd","NameFr":"Chetwynd","Province":"BC","Latitude":55.7,"Longitude":121.63}
+{"Code":"s0000501","NameEn":"Chesterfield","NameFr":"Chesterfield","Province":"NU","Latitude":63.34,"Longitude":90.7}
+{"Code":"s0000502","NameEn":"Chipman","NameFr":"Chipman","Province":"NB","Latitude":46.17,"Longitude":65.89}
+{"Code":"s0000503","NameEn":"Doaktown","NameFr":"Doaktown","Province":"NB","Latitude":46.56,"Longitude":66.12}
+{"Code":"s0000504","NameEn":"Clyde River","NameFr":"Clyde River","Province":"NU","Latitude":70.47,"Longitude":68.59}
+{"Code":"s0000505","NameEn":"Kluane Lake","NameFr":"Lac Kluane","Province":"YT","Latitude":61.26,"Longitude":138.77}
+{"Code":"s0000506","NameEn":"Burwash Landing","NameFr":"Burwash Landing","Province":"YT","Latitude":61.36,"Longitude":138.99}
+{"Code":"s0000507","NameEn":"Deer Lake","NameFr":"Deer Lake","Province":"NL","Latitude":49.18,"Longitude":57.43}
+{"Code":"s0000508","NameEn":"Dauphin","NameFr":"Dauphin","Province":"MB","Latitude":51.15,"Longitude":100.05}
+{"Code":"s0000509","NameEn":"Dawson Creek","NameFr":"Dawson Creek","Province":"BC","Latitude":55.77,"Longitude":120.23}
+{"Code":"s0000510","NameEn":"Edmonton (Int'l Aprt)","NameFr":"Edmonton (Aprt int.)","Province":"AB","Latitude":53.34,"Longitude":113.54}
+{"Code":"s0000511","NameEn":"Arviat","NameFr":"Arviat","Province":"NU","Latitude":61.11,"Longitude":94.06}
+{"Code":"s0000512","NameEn":"Elliot Lake","NameFr":"Elliot Lake","Province":"ON","Latitude":46.38,"Longitude":82.66}
+{"Code":"s0000513","NameEn":"Blind River","NameFr":"Blind River","Province":"ON","Latitude":46.19,"Longitude":82.96}
+{"Code":"s0000514","NameEn":"Oxbow","NameFr":"Oxbow","Province":"SK","Latitude":49.23,"Longitude":102.17}
+{"Code":"s0000515","NameEn":"Carlyle","NameFr":"Carlyle","Province":"SK","Latitude":49.64,"Longitude":102.27}
+{"Code":"s0000516","NameEn":"Estevan","NameFr":"Estevan","Province":"SK","Latitude":49.14,"Longitude":102.99}
+{"Code":"s0000517","NameEn":"Fort Severn","NameFr":"Fort Severn","Province":"ON","Latitude":56.0,"Longitude":87.62}
+{"Code":"s0000518","NameEn":"Edson","NameFr":"Edson","Province":"AB","Latitude":53.58,"Longitude":116.43}
+{"Code":"s0000519","NameEn":"Inuvik","NameFr":"Inuvik","Province":"NT","Latitude":68.36,"Longitude":133.72}
+{"Code":"s0000520","NameEn":"Armstrong","NameFr":"Armstrong","Province":"ON","Latitude":50.3,"Longitude":89.04}
+{"Code":"s0000521","NameEn":"Oromocto","NameFr":"Oromocto","Province":"NB","Latitude":45.84,"Longitude":66.48}
+{"Code":"s0000522","NameEn":"Woodstock","NameFr":"Woodstock","Province":"NB","Latitude":46.15,"Longitude":67.6}
+{"Code":"s0000523","NameEn":"Mildred Lake","NameFr":"Mildred Lake","Province":"AB","Latitude":57.03,"Longitude":111.6}
+{"Code":"s0000524","NameEn":"Fort Resolution","NameFr":"Fort Resolution","Province":"NT","Latitude":61.17,"Longitude":113.67}
+{"Code":"s0000525","NameEn":"Fort Simpson","NameFr":"Fort Simpson","Province":"NT","Latitude":61.86,"Longitude":121.35}
+{"Code":"s0000526","NameEn":"Makkovik","NameFr":"Makkovik","Province":"NL","Latitude":55.09,"Longitude":59.18}
+{"Code":"s0000527","NameEn":"Golden","NameFr":"Golden","Province":"BC","Latitude":51.3,"Longitude":116.97}
+{"Code":"s0000528","NameEn":"Greater Napanee","NameFr":"Greater Napanee","Province":"ON","Latitude":44.24,"Longitude":76.97}
+{"Code":"s0000529","NameEn":"Sydenham","NameFr":"Sydenham","Province":"ON","Latitude":44.41,"Longitude":76.6}
+{"Code":"s0000530","NameEn":"Westport","NameFr":"Westport","Province":"ON","Latitude":44.68,"Longitude":76.4}
+{"Code":"s0000531","NameEn":"Kingston","NameFr":"Kingston","Province":"ON","Latitude":44.31,"Longitude":76.42}
+{"Code":"s0000532","NameEn":"La Grande Rivière","NameFr":"La Grande Rivière","Province":"QC","Latitude":53.63,"Longitude":77.7}
+{"Code":"s0000533","NameEn":"Arnes","NameFr":"Arnes","Province":"MB","Latitude":50.8,"Longitude":96.99}
+{"Code":"s0000534","NameEn":"Gimli","NameFr":"Gimli","Province":"MB","Latitude":50.63,"Longitude":96.99}
+{"Code":"s0000535","NameEn":"Gaspé","NameFr":"Gaspé","Province":"QC","Latitude":48.83,"Longitude":64.48}
+{"Code":"s0000536","NameEn":"Forillon","NameFr":"Forillon","Province":"QC","Latitude":48.84,"Longitude":64.34}
+{"Code":"s0000537","NameEn":"Forillon (National Park)","NameFr":"Forillon ( Parc national)","Province":"QC","Latitude":48.9,"Longitude":64.35}
+{"Code":"s0000538","NameEn":"Greenstone (Geraldton)","NameFr":"Greenstone (Geraldton)","Province":"ON","Latitude":49.72,"Longitude":86.95}
+{"Code":"s0000539","NameEn":"Greenstone (Nakina)","NameFr":"Greenstone (Nakina)","Province":"ON","Latitude":50.18,"Longitude":86.71}
+{"Code":"s0000540","NameEn":"Igloolik","NameFr":"Igloolik","Province":"NU","Latitude":69.38,"Longitude":81.8}
+{"Code":"s0000541","NameEn":"Havre St-Pierre","NameFr":"Havre St-Pierre","Province":"QC","Latitude":50.23,"Longitude":63.6}
+{"Code":"s0000542","NameEn":"Kuujjuarapik","NameFr":"Kuujjuarapik","Province":"QC","Latitude":55.28,"Longitude":77.75}
+{"Code":"s0000543","NameEn":"Gillam","NameFr":"Gillam","Province":"MB","Latitude":56.35,"Longitude":94.71}
+{"Code":"s0000544","NameEn":"Quaqtaq","NameFr":"Quaqtaq","Province":"QC","Latitude":61.05,"Longitude":69.63}
+{"Code":"s0000545","NameEn":"Hudson Bay","NameFr":"Hudson Bay","Province":"SK","Latitude":52.84,"Longitude":102.38}
+{"Code":"s0000546","NameEn":"Dryden","NameFr":"Dryden","Province":"ON","Latitude":49.78,"Longitude":92.77}
+{"Code":"s0000547","NameEn":"Hope","NameFr":"Hope","Province":"BC","Latitude":49.38,"Longitude":121.44}
+{"Code":"s0000548","NameEn":"Haldimand County","NameFr":"Haldimand County","Province":"ON","Latitude":42.99,"Longitude":79.85}
+{"Code":"s0000549","NameEn":"Hamilton","NameFr":"Hamilton","Province":"ON","Latitude":43.24,"Longitude":79.99}
+{"Code":"s0000550","NameEn":"Brantford","NameFr":"Brantford","Province":"ON","Latitude":43.16,"Longitude":80.26}
+{"Code":"s0000551","NameEn":"Longueuil","NameFr":"Longueuil","Province":"QC","Latitude":45.53,"Longitude":73.52}
+{"Code":"s0000552","NameEn":"Richelieu","NameFr":"Richelieu","Province":"QC","Latitude":45.45,"Longitude":73.25}
+{"Code":"s0000553","NameEn":"Carignan","NameFr":"Carignan","Province":"QC","Latitude":45.45,"Longitude":73.3}
+{"Code":"s0000554","NameEn":"Chambly","NameFr":"Chambly","Province":"QC","Latitude":45.45,"Longitude":73.28}
+{"Code":"s0000555","NameEn":"Mont Saint-Hilaire","NameFr":"Mont Saint-Hilaire","Province":"QC","Latitude":45.57,"Longitude":73.2}
+{"Code":"s0000556","NameEn":"Otterburn Park","NameFr":"Otterburn Park","Province":"QC","Latitude":45.53,"Longitude":73.22}
+{"Code":"s0000557","NameEn":"Saint-Amable","NameFr":"Saint-Amable","Province":"QC","Latitude":45.65,"Longitude":73.3}
+{"Code":"s0000558","NameEn":"Saint-Basile Le Grand","NameFr":"Saint-Basile Le Grand","Province":"QC","Latitude":45.53,"Longitude":73.28}
+{"Code":"s0000559","NameEn":"Sainte-Julie","NameFr":"Sainte-Julie","Province":"QC","Latitude":45.58,"Longitude":73.33}
+{"Code":"s0000560","NameEn":"Enterprise","NameFr":"Enterprise","Province":"NT","Latitude":60.55,"Longitude":116.13}
+{"Code":"s0000561","NameEn":"Hay River","NameFr":"Hay River","Province":"NT","Latitude":60.82,"Longitude":115.8}
+{"Code":"s0000562","NameEn":"Summerside","NameFr":"Summerside","Province":"PE","Latitude":46.4,"Longitude":63.79}
+{"Code":"s0000563","NameEn":"Ivujivik","NameFr":"Ivujivik","Province":"QC","Latitude":62.42,"Longitude":77.92}
+{"Code":"s0000564","NameEn":"Pond Inlet","NameFr":"Pond Inlet","Province":"NU","Latitude":72.7,"Longitude":77.96}
+{"Code":"s0000565","NameEn":"Island Lake","NameFr":"Island Lake","Province":"MB","Latitude":53.86,"Longitude":94.67}
+{"Code":"s0000566","NameEn":"Gods Lake","NameFr":"Gods Lake","Province":"MB","Latitude":54.67,"Longitude":94.25}
+{"Code":"s0000567","NameEn":"Stephenville","NameFr":"Stephenville","Province":"NL","Latitude":48.55,"Longitude":58.58}
+{"Code":"s0000568","NameEn":"Kamloops","NameFr":"Kamloops","Province":"BC","Latitude":50.67,"Longitude":120.33}
+{"Code":"s0000569","NameEn":"Cache Creek","NameFr":"Cache Creek","Province":"BC","Latitude":50.81,"Longitude":121.32}
+{"Code":"s0000570","NameEn":"Aklavik","NameFr":"Aklavik","Province":"NT","Latitude":68.22,"Longitude":135.01}
+{"Code":"s0000571","NameEn":"Guelph","NameFr":"Guelph","Province":"ON","Latitude":43.54,"Longitude":80.23}
+{"Code":"s0000572","NameEn":"Cambridge","NameFr":"Cambridge","Province":"ON","Latitude":43.4,"Longitude":80.31}
+{"Code":"s0000573","NameEn":"Kitchener-Waterloo","NameFr":"Kitchener-Waterloo","Province":"ON","Latitude":43.42,"Longitude":80.47}
+{"Code":"s0000574","NameEn":"Kangiqsujuaq","NameFr":"Kangiqsujuaq","Province":"QC","Latitude":61.6,"Longitude":71.96}
+{"Code":"s0000575","NameEn":"Lac Raglan","NameFr":"Lac Raglan","Province":"QC","Latitude":61.66,"Longitude":73.26}
+{"Code":"s0000576","NameEn":"Key Lake","NameFr":"Key Lake","Province":"SK","Latitude":57.22,"Longitude":105.63}
+{"Code":"s0000577","NameEn":"Schefferville","NameFr":"Schefferville","Province":"QC","Latitude":54.8,"Longitude":66.83}
+{"Code":"s0000578","NameEn":"Akulivik","NameFr":"Akulivik","Province":"QC","Latitude":60.8,"Longitude":78.2}
+{"Code":"s0000579","NameEn":"Waskaganish","NameFr":"Waskaganish","Province":"QC","Latitude":51.2,"Longitude":78.77}
+{"Code":"s0000580","NameEn":"Baie-James","NameFr":"Baie-James","Province":"QC","Latitude":52.0,"Longitude":76.0}
+{"Code":"s0000581","NameEn":"Kindersley","NameFr":"Kindersley","Province":"SK","Latitude":51.47,"Longitude":109.16}
+{"Code":"s0000582","NameEn":"Newmarket","NameFr":"Newmarket","Province":"ON","Latitude":44.06,"Longitude":79.46}
+{"Code":"s0000583","NameEn":"Charlottetown","NameFr":"Charlottetown","Province":"PE","Latitude":46.24,"Longitude":63.13}
+{"Code":"s0000584","NameEn":"Vaughan","NameFr":"Vaughan","Province":"ON","Latitude":43.85,"Longitude":79.54}
+{"Code":"s0000585","NameEn":"Markham","NameFr":"Markham","Province":"ON","Latitude":43.88,"Longitude":79.26}
+{"Code":"s0000586","NameEn":"Aupaluk","NameFr":"Aupaluk","Province":"QC","Latitude":59.3,"Longitude":69.6}
+{"Code":"s0000587","NameEn":"Kimmirut","NameFr":"Kimmirut","Province":"NU","Latitude":62.85,"Longitude":69.87}
+{"Code":"s0000588","NameEn":"Chapleau","NameFr":"Chapleau","Province":"ON","Latitude":47.84,"Longitude":83.4}
+{"Code":"s0000589","NameEn":"Meadow Lake","NameFr":"Meadow Lake","Province":"SK","Latitude":54.12,"Longitude":108.44}
+{"Code":"s0000590","NameEn":"Lloydminster","NameFr":"Lloydminster","Province":"AB","Latitude":53.28,"Longitude":110.0}
+{"Code":"s0000591","NameEn":"Kangiqsualujjuaq","NameFr":"Kangiqsualujjuaq","Province":"QC","Latitude":58.69,"Longitude":65.95}
+{"Code":"s0000592","NameEn":"Kelowna","NameFr":"Kelowna","Province":"BC","Latitude":49.88,"Longitude":119.48}
+{"Code":"s0000593","NameEn":"Mayo","NameFr":"Mayo","Province":"YT","Latitude":63.59,"Longitude":135.9}
+{"Code":"s0000594","NameEn":"Mary's Harbour","NameFr":"Mary's Harbour","Province":"NL","Latitude":52.32,"Longitude":55.83}
+{"Code":"s0000595","NameEn":"Fort McMurray","NameFr":"Fort McMurray","Province":"AB","Latitude":56.73,"Longitude":111.38}
+{"Code":"s0000596","NameEn":"Moosonee","NameFr":"Moosonee","Province":"ON","Latitude":51.33,"Longitude":80.72}
+{"Code":"s0000597","NameEn":"Fort Albany","NameFr":"Fort Albany","Province":"ON","Latitude":52.21,"Longitude":81.68}
+{"Code":"s0000598","NameEn":"Chibougamau","NameFr":"Chibougamau","Province":"QC","Latitude":49.92,"Longitude":74.37}
+{"Code":"s0000599","NameEn":"Umiujaq","NameFr":"Umiujaq","Province":"QC","Latitude":56.56,"Longitude":76.55}
+{"Code":"s0000600","NameEn":"Mirabel","NameFr":"Mirabel","Province":"QC","Latitude":45.65,"Longitude":74.08}
+{"Code":"s0000601","NameEn":"Saint-Jérôme","NameFr":"Saint-Jérôme","Province":"QC","Latitude":45.78,"Longitude":74.0}
+{"Code":"s0000602","NameEn":"Lachute","NameFr":"Lachute","Province":"QC","Latitude":45.65,"Longitude":74.33}
+{"Code":"s0000603","NameEn":"Blainville","NameFr":"Blainville","Province":"QC","Latitude":45.67,"Longitude":73.88}
+{"Code":"s0000604","NameEn":"Boisbriand","NameFr":"Boisbriand","Province":"QC","Latitude":45.62,"Longitude":73.83}
+{"Code":"s0000605","NameEn":"Lorraine","NameFr":"Lorraine","Province":"QC","Latitude":45.68,"Longitude":73.78}
+{"Code":"s0000606","NameEn":"Rosemère","NameFr":"Rosemère","Province":"QC","Latitude":45.63,"Longitude":73.8}
+{"Code":"s0000607","NameEn":"Sainte-Anne-Des-Plaines","NameFr":"Sainte-Anne-Des-Plaines","Province":"QC","Latitude":45.77,"Longitude":73.82}
+{"Code":"s0000608","NameEn":"Sainte-Thérèse","NameFr":"Sainte-Thérèse","Province":"QC","Latitude":45.63,"Longitude":73.85}
+{"Code":"s0000609","NameEn":"Saint-Eustache","NameFr":"Saint-Eustache","Province":"QC","Latitude":45.57,"Longitude":73.9}
+{"Code":"s0000610","NameEn":"Natashquan","NameFr":"Natashquan","Province":"QC","Latitude":50.19,"Longitude":61.82}
+{"Code":"s0000611","NameEn":"Gatineau","NameFr":"Gatineau","Province":"QC","Latitude":45.48,"Longitude":75.65}
+{"Code":"s0000612","NameEn":"Papineau","NameFr":"Papineau","Province":"QC","Latitude":45.88,"Longitude":75.05}
+{"Code":"s0000613","NameEn":"Pontiac","NameFr":"Pontiac","Province":"QC","Latitude":46.05,"Longitude":76.92}
+{"Code":"s0000614","NameEn":"Val-des-Monts","NameFr":"Val-des-Monts","Province":"QC","Latitude":45.65,"Longitude":75.67}
+{"Code":"s0000615","NameEn":"Chelsea","NameFr":"Chelsea","Province":"QC","Latitude":45.5,"Longitude":75.78}
+{"Code":"s0000616","NameEn":"Norway House","NameFr":"Norway House","Province":"MB","Latitude":53.99,"Longitude":97.82}
+{"Code":"s0000617","NameEn":"Matagami","NameFr":"Matagami","Province":"QC","Latitude":49.75,"Longitude":77.63}
+{"Code":"s0000618","NameEn":"Ekati (Lac de Gras)","NameFr":"Ekati (Lac de Gras)","Province":"NT","Latitude":64.5,"Longitude":110.5}
+{"Code":"s0000619","NameEn":"Cold Lake","NameFr":"Cold Lake","Province":"AB","Latitude":54.45,"Longitude":110.17}
+{"Code":"s0000620","NameEn":"Québec","NameFr":"Québec","Province":"QC","Latitude":46.82,"Longitude":71.22}
+{"Code":"s0000621","NameEn":"High Level","NameFr":"High Level","Province":"AB","Latitude":58.52,"Longitude":117.13}
+{"Code":"s0000622","NameEn":"Grand Manan","NameFr":"Grand Manan","Province":"NB","Latitude":44.7,"Longitude":66.82}
+{"Code":"s0000623","NameEn":"Ottawa (Richmond - Metcalfe)","NameFr":"Ottawa (Richmond - Metcalfe)","Province":"ON","Latitude":45.24,"Longitude":75.47}
+{"Code":"s0000624","NameEn":"Prince Albert","NameFr":"Prince Albert","Province":"SK","Latitude":53.22,"Longitude":105.71}
+{"Code":"s0000625","NameEn":"Peace River","NameFr":"Peace River","Province":"AB","Latitude":56.24,"Longitude":117.3}
+{"Code":"s0000626","NameEn":"Portage la Prairie","NameFr":"Portage la Prairie","Province":"MB","Latitude":49.97,"Longitude":98.29}
+{"Code":"s0000627","NameEn":"Inukjuak","NameFr":"Inukjuak","Province":"QC","Latitude":58.45,"Longitude":78.1}
+{"Code":"s0000628","NameEn":"Pickle Lake","NameFr":"Pickle Lake","Province":"ON","Latitude":51.47,"Longitude":90.2}
+{"Code":"s0000629","NameEn":"Peterborough","NameFr":"Peterborough","Province":"ON","Latitude":44.3,"Longitude":78.33}
+{"Code":"s0000630","NameEn":"Port Perry","NameFr":"Port Perry","Province":"ON","Latitude":44.1,"Longitude":78.95}
+{"Code":"s0000631","NameEn":"Kawartha Lakes (Lindsay)","NameFr":"Kawartha Lakes (Lindsay)","Province":"ON","Latitude":44.36,"Longitude":78.74}
+{"Code":"s0000632","NameEn":"Kawartha Lakes (Fenelon Falls)","NameFr":"Kawartha Lakes (Fenelon Falls)","Province":"ON","Latitude":44.54,"Longitude":78.74}
+{"Code":"s0000633","NameEn":"Prince Rupert","NameFr":"Prince Rupert","Province":"BC","Latitude":54.32,"Longitude":130.32}
+{"Code":"s0000634","NameEn":"Powell River","NameFr":"Powell River","Province":"BC","Latitude":49.85,"Longitude":124.53}
+{"Code":"s0000635","NameEn":"Montréal","NameFr":"Montréal","Province":"QC","Latitude":45.52,"Longitude":73.65}
+{"Code":"s0000636","NameEn":"Fort Chipewyan","NameFr":"Fort Chipewyan","Province":"AB","Latitude":58.71,"Longitude":111.16}
+{"Code":"s0000637","NameEn":"Burk's Falls","NameFr":"Burk's Falls","Province":"ON","Latitude":45.63,"Longitude":79.4}
+{"Code":"s0000638","NameEn":"Gravenhurst","NameFr":"Gravenhurst","Province":"ON","Latitude":44.87,"Longitude":79.34}
+{"Code":"s0000639","NameEn":"Port Carling","NameFr":"Port Carling","Province":"ON","Latitude":45.12,"Longitude":79.58}
+{"Code":"s0000640","NameEn":"Huntsville","NameFr":"Huntsville","Province":"ON","Latitude":45.31,"Longitude":79.28}
+{"Code":"s0000641","NameEn":"Bracebridge","NameFr":"Bracebridge","Province":"ON","Latitude":45.03,"Longitude":79.19}
+{"Code":"s0000642","NameEn":"Muskoka","NameFr":"Muskoka","Province":"ON","Latitude":44.91,"Longitude":79.37}
+{"Code":"s0000643","NameEn":"Rainbow Lake","NameFr":"Rainbow Lake","Province":"AB","Latitude":58.5,"Longitude":119.4}
+{"Code":"s0000644","NameEn":"The Pas","NameFr":"The Pas","Province":"MB","Latitude":53.83,"Longitude":101.25}
+{"Code":"s0000645","NameEn":"Red Deer","NameFr":"Red Deer","Province":"AB","Latitude":52.27,"Longitude":113.81}
+{"Code":"s0000646","NameEn":"Windsor","NameFr":"Windsor","Province":"ON","Latitude":42.3,"Longitude":82.99}
+{"Code":"s0000647","NameEn":"Good Hope Lake","NameFr":"Good Hope Lake","Province":"BC","Latitude":59.28,"Longitude":129.3}
+{"Code":"s0000648","NameEn":"Watson Lake","NameFr":"Watson Lake","Province":"YT","Latitude":60.06,"Longitude":128.7}
+{"Code":"s0000649","NameEn":"Yarmouth","NameFr":"Yarmouth","Province":"NS","Latitude":43.84,"Longitude":66.12}
+{"Code":"s0000650","NameEn":"Sioux Narrows","NameFr":"Sioux Narrows","Province":"ON","Latitude":49.41,"Longitude":94.1}
+{"Code":"s0000651","NameEn":"Kenora","NameFr":"Kenora","Province":"ON","Latitude":49.82,"Longitude":94.44}
+{"Code":"s0000652","NameEn":"Lethbridge","NameFr":"Lethbridge","Province":"AB","Latitude":49.69,"Longitude":112.84}
+{"Code":"s0000653","NameEn":"Shediac","NameFr":"Shédiac","Province":"NB","Latitude":46.22,"Longitude":64.53}
+{"Code":"s0000654","NameEn":"Moncton","NameFr":"Moncton","Province":"NB","Latitude":46.12,"Longitude":64.8}
+{"Code":"s0000655","NameEn":"Hopewell","NameFr":"Hopewell","Province":"NB","Latitude":45.83,"Longitude":64.72}
+{"Code":"s0000656","NameEn":"Comox","NameFr":"Comox","Province":"BC","Latitude":49.68,"Longitude":124.93}
+{"Code":"s0000657","NameEn":"Courtenay","NameFr":"Courtenay","Province":"BC","Latitude":49.68,"Longitude":124.98}
+{"Code":"s0000658","NameEn":"Brampton","NameFr":"Brampton","Province":"ON","Latitude":43.69,"Longitude":79.76}
+{"Code":"s0000659","NameEn":"Kakabeka Falls","NameFr":"Kakabeka Falls","Province":"ON","Latitude":48.41,"Longitude":89.62}
+{"Code":"s0000660","NameEn":"Dorion","NameFr":"Dorion","Province":"ON","Latitude":48.79,"Longitude":88.65}
+{"Code":"s0000661","NameEn":"Grande Prairie","NameFr":"Grande Prairie","Province":"AB","Latitude":55.17,"Longitude":118.8}
+{"Code":"s0000662","NameEn":"Canora","NameFr":"Canora","Province":"SK","Latitude":51.64,"Longitude":102.43}
+{"Code":"s0000663","NameEn":"Yorkton","NameFr":"Yorkton","Province":"SK","Latitude":51.21,"Longitude":102.46}
+{"Code":"s0000664","NameEn":"Kamsack","NameFr":"Kamsack","Province":"SK","Latitude":51.56,"Longitude":101.9}
+{"Code":"s0000665","NameEn":"Melville","NameFr":"Melville","Province":"SK","Latitude":50.93,"Longitude":102.81}
+{"Code":"s0000666","NameEn":"North Battleford","NameFr":"North Battleford","Province":"SK","Latitude":52.76,"Longitude":108.29}
+{"Code":"s0000667","NameEn":"Gander","NameFr":"Gander","Province":"NL","Latitude":48.95,"Longitude":54.61}
+{"Code":"s0000668","NameEn":"Campbellton","NameFr":"Campbellton","Province":"NL","Latitude":49.29,"Longitude":54.94}
+{"Code":"s0000669","NameEn":"Lewisporte","NameFr":"Lewisporte","Province":"NL","Latitude":49.25,"Longitude":55.06}
+{"Code":"s0000670","NameEn":"Sydney","NameFr":"Sydney","Province":"NS","Latitude":46.14,"Longitude":60.2}
+{"Code":"s0000671","NameEn":"Quesnel","NameFr":"Quesnel","Province":"BC","Latitude":53.0,"Longitude":122.5}
+{"Code":"s0000672","NameEn":"Resolute","NameFr":"Resolute","Province":"NU","Latitude":74.7,"Longitude":94.83}
+{"Code":"s0000673","NameEn":"Roberval","NameFr":"Roberval","Province":"QC","Latitude":48.52,"Longitude":72.27}
+{"Code":"s0000674","NameEn":"Lac-Saint-Jean","NameFr":"Lac-Saint-Jean","Province":"QC","Latitude":48.57,"Longitude":72.23}
+{"Code":"s0000675","NameEn":"Saint-Félicien","NameFr":"Saint-Félicien","Province":"QC","Latitude":48.65,"Longitude":72.45}
+{"Code":"s0000676","NameEn":"Red Lake","NameFr":"Red Lake","Province":"ON","Latitude":51.1,"Longitude":93.72}
+{"Code":"s0000677","NameEn":"Pikangikum","NameFr":"Pikangikum","Province":"ON","Latitude":51.81,"Longitude":93.99}
+{"Code":"s0000678","NameEn":"Rankin Inlet","NameFr":"Rankin Inlet","Province":"NU","Latitude":62.82,"Longitude":92.08}
+{"Code":"s0000679","NameEn":"Revelstoke","NameFr":"Revelstoke","Province":"BC","Latitude":50.98,"Longitude":118.2}
+{"Code":"s0000680","NameEn":"Greater Sudbury","NameFr":"Grand Sudbury","Province":"ON","Latitude":46.58,"Longitude":81.07}
+{"Code":"s0000681","NameEn":"Sherbrooke","NameFr":"Sherbrooke","Province":"QC","Latitude":45.4,"Longitude":71.9}
+{"Code":"s0000682","NameEn":"Asbestos","NameFr":"Asbestos","Province":"QC","Latitude":45.77,"Longitude":71.93}
+{"Code":"s0000683","NameEn":"Suffield","NameFr":"Suffield","Province":"AB","Latitude":50.22,"Longitude":111.16}
+{"Code":"s0000684","NameEn":"Stony Rapids","NameFr":"Stony Rapids","Province":"SK","Latitude":59.25,"Longitude":105.84}
+{"Code":"s0000685","NameEn":"Quispamsis","NameFr":"Quispamsis","Province":"NB","Latitude":45.44,"Longitude":65.94}
+{"Code":"s0000686","NameEn":"Sussex","NameFr":"Sussex","Province":"NB","Latitude":45.72,"Longitude":65.51}
+{"Code":"s0000687","NameEn":"Saint John","NameFr":"Saint John","Province":"NB","Latitude":45.26,"Longitude":66.04}
+{"Code":"s0000688","NameEn":"Fundy (National Park)","NameFr":"Fundy (Parc national)","Province":"NB","Latitude":45.62,"Longitude":65.03}
+{"Code":"s0000689","NameEn":"Sanikiluaq","NameFr":"Sanikiluaq","Province":"NU","Latitude":56.53,"Longitude":79.23}
+{"Code":"s0000690","NameEn":"Fort Smith","NameFr":"Fort Smith","Province":"NT","Latitude":60.0,"Longitude":111.88}
+{"Code":"s0000691","NameEn":"St. Catharines","NameFr":"St. Catharines","Province":"ON","Latitude":43.17,"Longitude":79.25}
+{"Code":"s0000692","NameEn":"Niagara Falls","NameFr":"Niagara Falls","Province":"ON","Latitude":43.06,"Longitude":79.11}
+{"Code":"s0000693","NameEn":"Nanisivik","NameFr":"Nanisivik","Province":"NU","Latitude":73.03,"Longitude":84.55}
+{"Code":"s0000694","NameEn":"Cape Dorset","NameFr":"Cape Dorset","Province":"NU","Latitude":64.23,"Longitude":76.54}
+{"Code":"s0000695","NameEn":"Thompson","NameFr":"Thompson","Province":"MB","Latitude":55.74,"Longitude":97.86}
+{"Code":"s0000696","NameEn":"Sachigo Lake","NameFr":"Sachigo Lake","Province":"ON","Latitude":53.87,"Longitude":92.17}
+{"Code":"s0000697","NameEn":"Big Trout Lake","NameFr":"Big Trout Lake","Province":"ON","Latitude":53.75,"Longitude":90.0}
+{"Code":"s0000698","NameEn":"Wunnummin Lake","NameFr":"Wunnummin Lake","Province":"ON","Latitude":52.94,"Longitude":89.3}
+{"Code":"s0000699","NameEn":"Tasiujaq","NameFr":"Tasiujaq","Province":"QC","Latitude":58.7,"Longitude":69.93}
+{"Code":"s0000700","NameEn":"Stirling","NameFr":"Stirling","Province":"ON","Latitude":44.3,"Longitude":77.55}
+{"Code":"s0000701","NameEn":"Trenton","NameFr":"Trenton","Province":"ON","Latitude":44.11,"Longitude":77.58}
+{"Code":"s0000702","NameEn":"Prince Edward (Picton)","NameFr":"Prince Edward (Picton)","Province":"ON","Latitude":44.02,"Longitude":77.26}
+{"Code":"s0000703","NameEn":"Belleville","NameFr":"Belleville","Province":"ON","Latitude":44.26,"Longitude":77.37}
+{"Code":"s0000704","NameEn":"Quinte West","NameFr":"Quinte Ouest","Province":"ON","Latitude":44.2,"Longitude":77.58}
+{"Code":"s0000705","NameEn":"Timmins","NameFr":"Timmins","Province":"ON","Latitude":48.47,"Longitude":81.33}
+{"Code":"s0000706","NameEn":"Cochrane","NameFr":"Cochrane","Province":"ON","Latitude":49.17,"Longitude":81.06}
+{"Code":"s0000707","NameEn":"Oshawa","NameFr":"Oshawa","Province":"ON","Latitude":43.9,"Longitude":78.86}
+{"Code":"s0000708","NameEn":"Whitby","NameFr":"Whitby","Province":"ON","Latitude":43.93,"Longitude":78.95}
+{"Code":"s0000709","NameEn":"Shawinigan","NameFr":"Shawinigan","Province":"QC","Latitude":46.57,"Longitude":72.75}
+{"Code":"s0000710","NameEn":"Pickering","NameFr":"Pickering","Province":"ON","Latitude":43.91,"Longitude":79.13}
+{"Code":"s0000711","NameEn":"Puvirnituq","NameFr":"Puvirnituq","Province":"QC","Latitude":60.03,"Longitude":77.28}
+{"Code":"s0000712","NameEn":"Laval","NameFr":"Laval","Province":"QC","Latitude":45.58,"Longitude":73.75}
+{"Code":"s0000713","NameEn":"Repulse Bay","NameFr":"Repulse Bay","Province":"NU","Latitude":66.53,"Longitude":86.25}
+{"Code":"s0000714","NameEn":"Hall Beach","NameFr":"Hall Beach","Province":"NU","Latitude":68.79,"Longitude":81.24}
+{"Code":"s0000715","NameEn":"La Ronge","NameFr":"La Ronge","Province":"SK","Latitude":55.12,"Longitude":105.29}
+{"Code":"s0000716","NameEn":"Qikiqtarjuaq","NameFr":"Qikiqtarjuaqq","Province":"NU","Latitude":67.55,"Longitude":64.03}
+{"Code":"s0000717","NameEn":"Val-d'Or","NameFr":"Val-d'Or","Province":"QC","Latitude":48.1,"Longitude":77.78}
+{"Code":"s0000718","NameEn":"Amos","NameFr":"Amos","Province":"QC","Latitude":48.57,"Longitude":78.12}
+{"Code":"s0000719","NameEn":"Kuujjuaq","NameFr":"Kuujjuaq","Province":"QC","Latitude":58.1,"Longitude":68.4}
+{"Code":"s0000720","NameEn":"Norman Wells","NameFr":"Norman Wells","Province":"NT","Latitude":65.28,"Longitude":126.83}
+{"Code":"s0000721","NameEn":"Joliette","NameFr":"Joliette","Province":"QC","Latitude":46.02,"Longitude":73.45}
+{"Code":"s0000722","NameEn":"La Loche","NameFr":"La Loche","Province":"SK","Latitude":56.49,"Longitude":109.4}
+{"Code":"s0000723","NameEn":"Buffalo Narrows","NameFr":"Buffalo Narrows","Province":"SK","Latitude":55.88,"Longitude":108.52}
+{"Code":"s0000724","NameEn":"Wiarton","NameFr":"Wiarton","Province":"ON","Latitude":44.74,"Longitude":81.14}
+{"Code":"s0000725","NameEn":"Port Elgin","NameFr":"Port Elgin","Province":"ON","Latitude":44.44,"Longitude":81.39}
+{"Code":"s0000726","NameEn":"Saugeen Shores","NameFr":"Saugeen Shores","Province":"ON","Latitude":44.41,"Longitude":81.37}
+{"Code":"s0000727","NameEn":"South Bruce Peninsula","NameFr":"South Bruce Peninsula","Province":"ON","Latitude":44.71,"Longitude":81.22}
+{"Code":"s0000728","NameEn":"Owen Sound","NameFr":"Owen Sound","Province":"ON","Latitude":44.57,"Longitude":80.93}
+{"Code":"s0000729","NameEn":"Petawawa","NameFr":"Petawawa","Province":"ON","Latitude":45.91,"Longitude":77.27}
+{"Code":"s0000730","NameEn":"Pembroke","NameFr":"Pembroke","Province":"ON","Latitude":45.82,"Longitude":77.11}
+{"Code":"s0000731","NameEn":"Renfrew","NameFr":"Renfrew","Province":"ON","Latitude":45.47,"Longitude":76.68}
+{"Code":"s0000732","NameEn":"Deep River","NameFr":"Deep River","Province":"ON","Latitude":46.05,"Longitude":77.42}
+{"Code":"s0000733","NameEn":"Moosomin","NameFr":"Moosomin","Province":"SK","Latitude":50.14,"Longitude":101.67}
+{"Code":"s0000734","NameEn":"Richer","NameFr":"Richer","Province":"MB","Latitude":49.66,"Longitude":96.46}
+{"Code":"s0000735","NameEn":"Victoria Harbour","NameFr":"Victoria Harbour","Province":"BC","Latitude":48.42,"Longitude":123.39}
+{"Code":"s0000736","NameEn":"Wabush Lake","NameFr":"Wabush Lake","Province":"NL","Latitude":53.08,"Longitude":66.87}
+{"Code":"s0000737","NameEn":"Labrador City","NameFr":"Labrador City","Province":"NL","Latitude":52.94,"Longitude":66.92}
+{"Code":"s0000738","NameEn":"Fermont","NameFr":"Fermont","Province":"QC","Latitude":52.78,"Longitude":67.08}
+{"Code":"s0000739","NameEn":"Williams Lake","NameFr":"Williams Lake","Province":"BC","Latitude":52.14,"Longitude":122.14}
+{"Code":"s0000740","NameEn":"Wrigley","NameFr":"Wrigley","Province":"NT","Latitude":63.27,"Longitude":123.61}
+{"Code":"s0000741","NameEn":"Cranbrook","NameFr":"Cranbrook","Province":"BC","Latitude":49.5,"Longitude":115.77}
+{"Code":"s0000742","NameEn":"Saint-Timothée","NameFr":"Saint-Timothée","Province":"QC","Latitude":45.29,"Longitude":74.04}
+{"Code":"s0000743","NameEn":"Rosthern","NameFr":"Rosthern","Province":"SK","Latitude":52.66,"Longitude":106.33}
+{"Code":"s0000744","NameEn":"Lambton Shores","NameFr":"Lambton Shores","Province":"ON","Latitude":43.18,"Longitude":81.9}
+{"Code":"s0000745","NameEn":"Medicine Hat","NameFr":"Medicine Hat","Province":"AB","Latitude":50.04,"Longitude":110.68}
+{"Code":"s0000746","NameEn":"Fort St. John","NameFr":"Fort St. John","Province":"BC","Latitude":56.25,"Longitude":120.85}
+{"Code":"s0000747","NameEn":"Savant Lake","NameFr":"Savant Lake","Province":"ON","Latitude":50.24,"Longitude":90.71}
+{"Code":"s0000748","NameEn":"Sioux Lookout","NameFr":"Sioux Lookout","Province":"ON","Latitude":50.09,"Longitude":92.0}
+{"Code":"s0000749","NameEn":"Whale Cove","NameFr":"Whale Cove","Province":"NU","Latitude":62.16,"Longitude":92.57}
+{"Code":"s0000750","NameEn":"Pangnirtung","NameFr":"Pangnirtung","Province":"NU","Latitude":66.14,"Longitude":65.72}
+{"Code":"s0000751","NameEn":"Beaver Creek","NameFr":"Beaver Creek","Province":"YT","Latitude":62.38,"Longitude":140.88}
+{"Code":"s0000752","NameEn":"Earlton","NameFr":"Earlton","Province":"ON","Latitude":47.71,"Longitude":79.82}
+{"Code":"s0000753","NameEn":"Temiskaming Shores","NameFr":"Temiskaming Shores","Province":"ON","Latitude":47.49,"Longitude":79.72}
+{"Code":"s0000754","NameEn":"Vanderhoof","NameFr":"Vanderhoof","Province":"BC","Latitude":54.02,"Longitude":124.02}
+{"Code":"s0000755","NameEn":"Repentigny","NameFr":"Repentigny","Province":"QC","Latitude":45.73,"Longitude":73.47}
+{"Code":"s0000756","NameEn":"Kitimat","NameFr":"Kitimat","Province":"BC","Latitude":54.05,"Longitude":128.65}
+{"Code":"s0000757","NameEn":"Terrace","NameFr":"Terrace","Province":"BC","Latitude":54.52,"Longitude":128.6}
+{"Code":"s0000758","NameEn":"Abbotsford","NameFr":"Abbotsford","Province":"BC","Latitude":49.06,"Longitude":122.25}
+{"Code":"s0000759","NameEn":"Paulatuk","NameFr":"Paulatuk","Province":"NT","Latitude":69.35,"Longitude":124.07}
+{"Code":"s0000760","NameEn":"Carcross","NameFr":"Carcross","Province":"YT","Latitude":60.17,"Longitude":134.71}
+{"Code":"s0000761","NameEn":"Wawa","NameFr":"Wawa","Province":"ON","Latitude":47.99,"Longitude":84.77}
+{"Code":"s0000762","NameEn":"Montreal River Harbour","NameFr":"Montreal River Harbour","Province":"ON","Latitude":47.24,"Longitude":84.65}
+{"Code":"s0000763","NameEn":"Lake Superior (Provincial Park)","NameFr":"Lac Supérieur (Parc provincial)","Province":"ON","Latitude":47.6,"Longitude":84.74}
+{"Code":"s0000764","NameEn":"White River","NameFr":"White River","Province":"ON","Latitude":48.58,"Longitude":85.26}
+{"Code":"s0000765","NameEn":"North Bay","NameFr":"North Bay","Province":"ON","Latitude":46.31,"Longitude":79.46}
+{"Code":"s0000766","NameEn":"West Nipissing","NameFr":"Nipissing Ouest","Province":"ON","Latitude":46.45,"Longitude":80.04}
+{"Code":"s0000767","NameEn":"Okotoks","NameFr":"Okotoks","Province":"AB","Latitude":50.73,"Longitude":113.98}
+{"Code":"s0000768","NameEn":"Airdrie","NameFr":"Airdrie","Province":"AB","Latitude":51.29,"Longitude":114.01}
+{"Code":"s0000769","NameEn":"Delson","NameFr":"Delson","Province":"QC","Latitude":45.37,"Longitude":73.55}
+{"Code":"s0000770","NameEn":"Smithers","NameFr":"Smithers","Province":"BC","Latitude":54.78,"Longitude":127.17}
+{"Code":"s0000771","NameEn":"Fort Nelson","NameFr":"Fort Nelson","Province":"BC","Latitude":58.81,"Longitude":122.7}
+{"Code":"s0000772","NameEn":"Penticton","NameFr":"Penticton","Province":"BC","Latitude":49.5,"Longitude":119.58}
+{"Code":"s0000773","NameEn":"Richmond Hill","NameFr":"Richmond Hill","Province":"ON","Latitude":43.87,"Longitude":79.44}
+{"Code":"s0000774","NameEn":"Taloyoak","NameFr":"Taloyoak","Province":"NU","Latitude":69.54,"Longitude":93.52}
+{"Code":"s0000775","NameEn":"Victoria","NameFr":"Victoria","Province":"BC","Latitude":48.43,"Longitude":123.37}
+{"Code":"s0000776","NameEn":"Leaf Rapids","NameFr":"Leaf Rapids","Province":"MB","Latitude":56.47,"Longitude":99.75}
+{"Code":"s0000777","NameEn":"Lynn Lake","NameFr":"Lynn Lake","Province":"MB","Latitude":56.83,"Longitude":101.08}
+{"Code":"s0000778","NameEn":"Brochet","NameFr":"Brochet","Province":"MB","Latitude":57.88,"Longitude":101.67}
+{"Code":"s0000779","NameEn":"Churchill","NameFr":"Churchill","Province":"MB","Latitude":58.73,"Longitude":94.12}
+{"Code":"s0000780","NameEn":"Happy Valley-Goose Bay","NameFr":"Happy Valley-Goose Bay","Province":"NL","Latitude":53.3,"Longitude":60.31}
+{"Code":"s0000781","NameEn":"Grande Cache","NameFr":"Grande Cache","Province":"AB","Latitude":53.89,"Longitude":119.12}
+{"Code":"s0000782","NameEn":"Kapuskasing","NameFr":"Kapuskasing","Province":"ON","Latitude":49.42,"Longitude":82.42}
+{"Code":"s0000783","NameEn":"Mont-Joli","NameFr":"Mont-Joli","Province":"QC","Latitude":48.58,"Longitude":68.18}
+{"Code":"s0000784","NameEn":"Matane","NameFr":"Matane","Province":"QC","Latitude":48.85,"Longitude":67.53}
+{"Code":"s0000785","NameEn":"Toronto Island","NameFr":"Toronto Island","Province":"ON","Latitude":43.63,"Longitude":79.37}
+{"Code":"s0000786","NameEn":"Mississauga","NameFr":"Mississauga","Province":"ON","Latitude":43.59,"Longitude":79.66}
+{"Code":"s0000787","NameEn":"Caledon","NameFr":"Caledon","Province":"ON","Latitude":43.87,"Longitude":79.86}
+{"Code":"s0000788","NameEn":"Regina","NameFr":"Regina","Province":"SK","Latitude":50.45,"Longitude":104.61}
+{"Code":"s0000789","NameEn":"Halton Hills","NameFr":"Halton Hills","Province":"ON","Latitude":43.63,"Longitude":79.95}
+{"Code":"s0000790","NameEn":"Gore Bay","NameFr":"Gore Bay","Province":"ON","Latitude":45.92,"Longitude":82.46}
+{"Code":"s0000791","NameEn":"Detah","NameFr":"Detah","Province":"NT","Latitude":62.41,"Longitude":114.31}
+{"Code":"s0000792","NameEn":"Victoria (Hartland)","NameFr":"Victoria (Hartland)","Province":"BC","Latitude":48.52,"Longitude":123.43}
+{"Code":"s0000793","NameEn":"Salluit","NameFr":"Salluit","Province":"QC","Latitude":62.2,"Longitude":75.63}
+{"Code":"s0000794","NameEn":"Slave Lake","NameFr":"Slave Lake","Province":"AB","Latitude":55.28,"Longitude":114.77}
+{"Code":"s0000795","NameEn":"Sandspit","NameFr":"Sandspit","Province":"BC","Latitude":53.25,"Longitude":131.82}
+{"Code":"s0000796","NameEn":"Sarnia","NameFr":"Sarnia","Province":"ON","Latitude":42.98,"Longitude":82.32}
+{"Code":"s0000797","NameEn":"Saskatoon","NameFr":"Saskatoon","Province":"SK","Latitude":52.14,"Longitude":106.69}
+{"Code":"s0000798","NameEn":"Coral Harbour","NameFr":"Coral Harbour","Province":"NU","Latitude":64.13,"Longitude":83.17}
+{"Code":"s0000799","NameEn":"Port Hardy","NameFr":"Port Hardy","Province":"BC","Latitude":50.7,"Longitude":127.42}
+{"Code":"s0000800","NameEn":"Sept-Îles","NameFr":"Sept-Îles","Province":"QC","Latitude":50.2,"Longitude":66.38}
+{"Code":"s0000801","NameEn":"Port-Cartier","NameFr":"Port-Cartier","Province":"QC","Latitude":50.03,"Longitude":66.87}
+{"Code":"s0000802","NameEn":"Annapolis Royal","NameFr":"Annapolis Royal","Province":"NS","Latitude":44.74,"Longitude":65.52}
+{"Code":"s0000803","NameEn":"Greenwood","NameFr":"Greenwood","Province":"NS","Latitude":44.97,"Longitude":64.93}
+{"Code":"s0000804","NameEn":"Bridgetown","NameFr":"Bridgetown","Province":"NS","Latitude":44.84,"Longitude":65.29}
+{"Code":"s0000805","NameEn":"Mackenzie","NameFr":"Mackenzie","Province":"BC","Latitude":55.3,"Longitude":123.17}
+{"Code":"s0000806","NameEn":"Bathurst","NameFr":"Bathurst","Province":"NB","Latitude":47.63,"Longitude":65.63}
+{"Code":"s0000807","NameEn":"Campbellton","NameFr":"Campbellton","Province":"NB","Latitude":47.99,"Longitude":66.68}
+{"Code":"s0000808","NameEn":"Dalhousie","NameFr":"Dalhousie","Province":"NB","Latitude":48.05,"Longitude":66.39}
+{"Code":"s0000809","NameEn":"Charlo","NameFr":"Charlo","Province":"NB","Latitude":47.99,"Longitude":66.31}
+{"Code":"s0000810","NameEn":"Pointe-à-la-Croix","NameFr":"Pointe-à-la-Croix","Province":"QC","Latitude":48.02,"Longitude":66.68}
+{"Code":"s0000811","NameEn":"Carleton-sur-Mer","NameFr":"Carleton-sur-Mer","Province":"QC","Latitude":48.1,"Longitude":66.13}
+{"Code":"s0000812","NameEn":"Tatamagouche","NameFr":"Tatamagouche","Province":"NS","Latitude":45.71,"Longitude":63.29}
+{"Code":"s0000813","NameEn":"Truro","NameFr":"Truro","Province":"NS","Latitude":45.37,"Longitude":63.28}
+{"Code":"s0000814","NameEn":"Economy","NameFr":"Economy","Province":"NS","Latitude":45.38,"Longitude":63.91}
+{"Code":"s0000815","NameEn":"Orangeville","NameFr":"Orangeville","Province":"ON","Latitude":43.92,"Longitude":80.11}
+{"Code":"s0000816","NameEn":"Fort McPherson","NameFr":"Fort McPherson","Province":"NT","Latitude":67.44,"Longitude":134.88}
+{"Code":"s0000817","NameEn":"Tulita","NameFr":"Tulita","Province":"NT","Latitude":64.9,"Longitude":125.57}
+{"Code":"s0000818","NameEn":"Fort Good Hope","NameFr":"Fort Good Hope","Province":"NT","Latitude":66.26,"Longitude":128.64}
+{"Code":"s0000819","NameEn":"Ignace","NameFr":"Ignace","Province":"ON","Latitude":49.41,"Longitude":91.68}
+{"Code":"s0000820","NameEn":"Gjoa Haven","NameFr":"Gjoa Haven","Province":"NU","Latitude":68.63,"Longitude":95.88}
+{"Code":"s0000821","NameEn":"Alert","NameFr":"Alert","Province":"NU","Latitude":82.5,"Longitude":62.37}
+{"Code":"s0000822","NameEn":"Moose Jaw","NameFr":"Moose Jaw","Province":"SK","Latitude":50.39,"Longitude":105.55}
+{"Code":"s0000823","NameEn":"Old Crow","NameFr":"Old Crow","Province":"YT","Latitude":67.57,"Longitude":139.84}
+{"Code":"s0000824","NameEn":"Pincher Creek","NameFr":"Pincher Creek","Province":"AB","Latitude":49.49,"Longitude":113.95}
+{"Code":"s0000825","NameEn":"Whitehorse","NameFr":"Whitehorse","Province":"YT","Latitude":60.7,"Longitude":135.08}
+{"Code":"s0000826","NameEn":"Sandy Lake","NameFr":"Sandy Lake","Province":"ON","Latitude":53.06,"Longitude":93.32}
+{"Code":"s0000827","NameEn":"St. Peters Bay","NameFr":"St. Peters Bay","Province":"PE","Latitude":46.42,"Longitude":62.58}
+{"Code":"s0000828","NameEn":"Stewart","NameFr":"Stewart","Province":"BC","Latitude":55.93,"Longitude":129.98}
+{"Code":"s0000829","NameEn":"Stettler","NameFr":"Stettler","Province":"AB","Latitude":52.32,"Longitude":112.7}
+{"Code":"s0000830","NameEn":"Tuktoyaktuk","NameFr":"Tuktoyaktuk","Province":"NT","Latitude":69.45,"Longitude":133.03}
+{"Code":"s0000831","NameEn":"Delta","NameFr":"Delta","Province":"MB","Latitude":50.19,"Longitude":98.32}
+{"Code":"s0000832","NameEn":"Churchill Falls","NameFr":"Churchill Falls","Province":"NL","Latitude":53.55,"Longitude":64.02}
+{"Code":"s0000833","NameEn":"Wainwright","NameFr":"Wainwright","Province":"AB","Latitude":52.83,"Longitude":110.86}
+{"Code":"s0000834","NameEn":"Bella Bella","NameFr":"Bella Bella","Province":"BC","Latitude":52.16,"Longitude":128.14}
+{"Code":"s0000835","NameEn":"Lloydminster","NameFr":"Lloydminster","Province":"SK","Latitude":53.28,"Longitude":109.98}
+{"Code":"s0000843","NameEn":"Sudbury (Greater)","NameFr":"Sudbury (Grand)","Province":"ON","Latitude":46.58,"Longitude":81.07}
+{"Code":"s0000845","NameEn":"Cummins Lakes (Provincial Park)","NameFr":"Cummins Lakes (Parc provincial)","Province":"BC","Latitude":52.1,"Longitude":118.06}
+{"Code":"s0000857","NameEn":"L'Anse-au-Loup","NameFr":"L'Anse-au-Loup","Province":"NL","Latitude":51.52,"Longitude":56.84}
+{"Code":"s0000858","NameEn":"Rigolet","NameFr":"Rigolet","Province":"NL","Latitude":54.1792,"Longitude":58.43}
+{"Code":"s0000859","NameEn":"Cartwright Junction (Trans-Labrador Hwy)","NameFr":"Cartwright Junction (Rte Trans-Labrador)","Province":"NL","Latitude":53.07,"Longitude":57.51}
+{"Code":"s0000860","NameEn":"Gull Island Rapids (Trans-Labrador Hwy)","NameFr":"Gull Island Rapids (Rte Trans-Labrador)","Province":"NL","Latitude":52.98,"Longitude":61.47}
+{"Code":"s0000861","NameEn":"Eskasoni","NameFr":"Eskasoni","Province":"NS","Latitude":45.94,"Longitude":60.62}
+{"Code":"s0000846","NameEn":"Coquihalla Highway - Hope to Merritt","NameFr":"Route de Coquihalla - de Hope à Merritt","Province":"HEF","Latitude":49.656,"Longitude":121.118}
+{"Code":"s0000847","NameEn":"Coquihalla Highway - Merritt to Kamloops","NameFr":"Route de Coquihalla - de Merritt à Kamloops","Province":"HEF","Latitude":50.297,"Longitude":120.576}
+{"Code":"s0000848","NameEn":"Highway 16 - Smithers to Terrace","NameFr":"Route 16 - de Smithers à Terrace","Province":"HEF","Latitude":55.09559,"Longitude":128.07611}
+{"Code":"s0000849","NameEn":"Highway 3 - Hope to Princeton via Allison Pass","NameFr":"Route 3 - de Hope à Princeton via le col Allison","Province":"HEF","Latitude":49.135,"Longitude":120.9}
+{"Code":"s0000850","NameEn":"Highway 3 - Paulson Summit to Kootenay Pass","NameFr":"Route 3 - du sommet Paulson au col Kootenay","Province":"HEF","Latitude":49.02338,"Longitude":117.15639}
+{"Code":"s0000851","NameEn":"Highway 97 - Clinton to 100 Mile House via Begbie Summit","NameFr":"Route 97 - de Clinton à 100 Mile House via le sommet Begbie","Province":"HEF","Latitude":51.508,"Longitude":121.34}
+{"Code":"s0000852","NameEn":"Highway 97 - Pine Pass","NameFr":"Route 97 - col Pine","Province":"HEF","Latitude":55.52176,"Longitude":122.7268}
+{"Code":"s0000853","NameEn":"Okanagan Connector - Merritt to Kelowna","NameFr":"Route de liason - Okanagan - de Merritt à Kelowna","Province":"HEF","Latitude":49.90207,"Longitude":120.12613}
+{"Code":"s0000854","NameEn":"Sea to Sky - Squamish To Whistler","NameFr":"Sea to Sky - de Squamish à Whistler","Province":"HEF","Latitude":49.982,"Longitude":123.141}
+{"Code":"s0000855","NameEn":"Sea to Sky - West Vancouver Upper Levels to Squamish","NameFr":"Sea to Sky - West Vancouver de la route Upper Levels à Squamish","Province":"HEF","Latitude":49.544,"Longitude":123.241}
+{"Code":"s0000856","NameEn":"Trans Canada Highway - Eagle Pass to Rogers Pass","NameFr":"Route Transcanadienne - du col Eagle au col Rogers","Province":"HEF","Latitude":51.25195,"Longitude":117.59584}
