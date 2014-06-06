@@ -1,85 +1,48 @@
-﻿using System;
-using System.Linq;
+﻿using CleverWeather.Shared.Models;
+using System;
 using System.Collections.Generic;
-using System.Collections.ObjectModel;
-
-using Xamarin.Forms;
-
-using CleverWeather.Shared.Models;
+using System.Linq;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
 namespace CleverWeather.Shared.ViewModels
     {
-    public class ForecastViewModel : BaseViewModel
+    public class ForecastViewModel : ListViewModel<Forecast>
         {
         private City m_city;
-        private Command m_loadCommand;
-
-        public ObservableCollection<Forecast> Items { get; set; }
 
         public ForecastViewModel(City city)
             {
             m_city = city;
             Title = city.NameEn;
-            Items = new ObservableCollection<Forecast>();
             }
 
-        public Command LoadCommand
+        protected async override Task<IEnumerable<Forecast>> LoadItems()
             {
-            get
+            if (App.Connection != null)
                 {
-                return m_loadCommand ?? (m_loadCommand = new Command(ExecuteLoadCommand));
-                }
-            }
+                var query = App.Connection.Table<Forecast>().Where(f => f.CityCode == m_city.Code).OrderBy(f => f.Id);
+                var forecast = await query.FirstOrDefaultAsync();
 
-        private async void ExecuteLoadCommand()
-            {
-            if (IsBusy)
-                return;
+                //if forecast over an hour old, requery
+                if (forecast != null && forecast.UTCIssueTime.AddHours(1.0).CompareTo(DateTime.UtcNow) < 0)
+                    forecast = null;
 
-            try
-                {
-                IsBusy = true;
-                LoadingLabel = "Loading Forecast...";
-                Items.Clear();
-
-                if (App.Connection != null)
+                if (forecast == null)
                     {
-                    var query = App.Connection.Table<Forecast>().Where(f => f.CityCode == m_city.Code).OrderBy(f => f.Id);
-                    var forecast = await query.FirstOrDefaultAsync();
+                    var url = "http://dd.weatheroffice.ec.gc.ca/citypage_weather/xml/" + m_city.Province + "/" + m_city.Code + "_e.xml";
+                    var xml = await SiteListUtils.GetResponse(url);
+                    var items = await ParseForecasts(xml);
 
-                    //if forecast over an hour old, requery
-                    if (forecast != null && forecast.UTCIssueTime.AddHours(1.0).CompareTo(DateTime.UtcNow) < 0)
-                        forecast = null;
-
-                    if (forecast == null)
-                        {
-                        var url = "http://dd.weatheroffice.ec.gc.ca/citypage_weather/xml/" + m_city.Province + "/" + m_city.Code + "_e.xml";
-                        var xml = await SiteListUtils.GetResponse(url);
-                        var items = await ParseForecasts(xml);
-
-                        //TODO: rather than hard-code table name, we should use the mapping but the async connection doesn't have a function to get it
-                        string sql = string.Format("delete from \"{0}\" where \"{1}\" = ?", "Forecast", "CityCode");
-                        await App.Connection.ExecuteAsync(sql, m_city.Code);
-                        await App.Connection.InsertAllAsync(items);
-                        }
-
-                    var list = await query.ToListAsync();
-                    foreach (var item in list)
-                        Items.Add(item);
+                    //TODO: rather than hard-code table name, we should use the mapping but the async connection doesn't have a function to get it
+                    string sql = string.Format("delete from \"{0}\" where \"{1}\" = ?", "Forecast", "CityCode");
+                    await App.Connection.ExecuteAsync(sql, m_city.Code);
+                    await App.Connection.InsertAllAsync(items);
                     }
-                //TODO: show label when Forecasts is empty or not connected
+
+                return await query.ToListAsync();
                 }
-            catch (Exception ex)
-                {
-                var page = new ContentPage();
-                var result = page.DisplayAlert("Error", "Unable to load Forecast, exception: " + ex.Message, "OK", null);
-                }
-            finally
-                {
-                IsBusy = false;
-                }
+            return null;
             }
 
         private async Task<IEnumerable<Forecast>> ParseForecasts(string xml)
@@ -97,46 +60,35 @@ namespace CleverWeather.Shared.ViewModels
                         System.Globalization.DateTimeFormatInfo.InvariantInfo, 
                         System.Globalization.DateTimeStyles.None, out dt);
                     }
-                var query = element.Descendants("forecast").Select(item => new Forecast
+                var query = element.Descendants("forecast").Select(delegate(XElement item)
                     {
-                    CityCode = m_city.Code,
-                    Name = (string)item.Element("period").Attribute("textForecastName"),
-                    Summary = (string)item.Element("textSummary"),
-                    UTCIssueTime = dt,
-                    IconCode = (int) item.Element("abbreviatedForecast").Element("iconCode")
-                    //TODO: HighTemp
-                    //TODO: LowTemp
+                    int? high = null;
+                    int? low = null;
+
+                    var temps = item.Element("temperatures");
+                    if (temps != null)
+                        {
+                        foreach (var temp in temps.Descendants("temperature"))
+                            {
+                            if ("high" == (string) temp.Attribute("class"))
+                                high = (int)temp;
+                            else if ("low" == (string)temp.Attribute("class"))
+                                low = (int)temp;
+                            }
+                        }
+                    return new Forecast
+                        {
+                        CityCode = m_city.Code,
+                        Name = (string)item.Element("period").Attribute("textForecastName"),
+                        Summary = (string)item.Element("textSummary"),
+                        UTCIssueTime = dt,
+                        IconCode = (int) item.Element("abbreviatedForecast").Element("iconCode"),
+                        HighTemp = high,
+                        LowTemp = low
+                        };
                     });
                 return query;
                 });
-            }
-
-        public const string IsNotBusyPropertyName = "IsNotBusy";
-        public bool IsNotBusy
-            {
-            get 
-                { 
-                return !IsBusy; 
-                }
-            set 
-                {
-                IsBusy = !value;
-                OnPropertyChanged(IsNotBusyPropertyName);
-                }
-            }
-
-        public const string LoadingLabelPropertyName = "LoadingLabel";
-        private string m_loadingLabel;
-        public string LoadingLabel
-            {
-            get
-                {
-                return m_loadingLabel;
-                }
-            set
-                {
-                SetProperty(ref m_loadingLabel, value, LoadingLabelPropertyName); 
-                }
             }
         }
     }

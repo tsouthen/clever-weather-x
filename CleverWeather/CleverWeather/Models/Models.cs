@@ -52,17 +52,7 @@ namespace CleverWeather.Shared.Models
         public string Name { get; set; }
         public string Summary { get; set; }
         public int IconCode { get; set; }
-        public int LowTemp { get; set; }
-        public int HighTemp { get; set; }
-
-        [Ignore]
-        public string Icon
-            {
-            get 
-                {
-                return "cbc_white_" + IconCode.ToString("D2") + ".png";
-                }
-            set { }
-            }
+        public int? LowTemp { get; set; }
+        public int? HighTemp { get; set; }
         }
     }

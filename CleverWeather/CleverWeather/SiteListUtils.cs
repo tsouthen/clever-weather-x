@@ -25,14 +25,6 @@ namespace CleverWeather
                                 Name = (string)item.Element("period").Attribute("textForecastName"),
                                 Summary = (string)item.Element("textSummary")
                             });
-#if QUERYSYNTAX
-                var query = from item in siteData.Descendants("forecast")
-                            select new Forecast
-                            {
-                                Name = (string)item.Element("period").Attribute("textForecastName"),
-                                Summary = (string)item.Element("textSummary")
-                            };
-#endif
                 console.WriteLine("Forecast for {0}:", location);
                 foreach (Forecast forecast in query)
                     {
@@ -47,10 +39,10 @@ namespace CleverWeather
 
         public static async Task<string> GetResponse(string url)
             {
-            var httpClientHandler = new System.Net.Http.HttpClientHandler();
-            httpClientHandler.AutomaticDecompression = System.Net.DecompressionMethods.Deflate | System.Net.DecompressionMethods.GZip;
+            var handler = new ModernHttpClient.NativeMessageHandler();
+            handler.AutomaticDecompression = System.Net.DecompressionMethods.Deflate | System.Net.DecompressionMethods.GZip;
+            var httpClient = new System.Net.Http.HttpClient(handler);
 
-            var httpClient = new System.Net.Http.HttpClient(httpClientHandler);
             var response = await httpClient.GetAsync(new Uri(url));
 
             response.EnsureSuccessStatusCode();

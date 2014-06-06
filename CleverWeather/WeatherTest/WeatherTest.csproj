@@ -75,7 +75,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CleverWeather\CleverWeather\CleverWeather.csproj">
+    <ProjectReference Include="..\CleverWeather\CleverWeather.csproj">
       <Project>{a2596510-af65-48bb-9300-d47274c5fe47}</Project>
       <Name>CleverWeather</Name>
     </ProjectReference>

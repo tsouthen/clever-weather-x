@@ -42,6 +42,7 @@
     <Compile Include="ViewModels\BaseViewModel.cs" />
     <Compile Include="ViewModels\ForecastViewModel.cs" />
     <Compile Include="ViewModels\CityViewModel.cs" />
+    <Compile Include="ViewModels\ListViewModel.cs" />
     <Compile Include="Views\BaseView.cs" />
     <Compile Include="Views\ForecastView.cs" />
     <Compile Include="Views\CitiesView.cs" />
